@@ -5,7 +5,6 @@ from google.genai import types
 def generate_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards):
 
     prompt = f"Here are the details of the players in match for {team1}:\n\n"
-    # prompt += "Player ID: '001', Name: 'anirudh', Roles: 'Batting', Team Name: 'RCB', Credit: '10', Matches: '300', Runs: '6000', Average: '70', Best Performance: '200', Wickets: '200', Economy: '15', Five Wicket Hauls: '10', Bowling Strike Rate: '20'\n"
     for player in players_info_1:
         prompt += (
             f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['roles']}, "
@@ -45,16 +44,14 @@ def generate_prompt(team1, team2, players_info_1, players_info_2, rules, scorebo
     for file_name, file_content in scoreboards.items():
         prompt += f"File: {file_name}\nContent:\n{file_content}\n\n"
     
-    prompt += "\nBased on the above data, please create a fantasy team of 11 players using players from both teams in match that adheres to the given rules strictly."
-    prompt += "You need to select a captain and a vice-captain from the team. The captain will get 2x points and the vice-captain will get 1.5x points.\n"
-    prompt += "The team should be balanced and should not exceed the total credits. The team should have the right mix of roles as per the rules.\n"
-
-    prompt += "Consider taking risks by 75% and selecting players who are not selected by others to get an edge over the competition.\n"
+    prompt += "\nBased on the above data, please create **three different fantasy teams** of 11 players each, following the given rules strictly."
+    prompt += "Each team should be formed using the same selection strategy but should have **slightly different player combinations**."
+    # prompt += "Consider selecting players who are not selected by others to get an edge over the competition.\n"
     prompt += "Provide the team in the following JSON format, including reasoning for selecting each player, credit calculations, and justifications:\n"
-    prompt += "Also share me the response of not-selected players and the reason for not selecting them.\n"
+    # prompt += "Also share me the response of not-selected players and the reason for not selecting them.\n"
     prompt += "Also share the count of batsmen, bowlers, allrounders, and wicketkeepers in the team.\n"
     prompt += "Also share all rules and if they are followed or not.\n"
-    prompt += "Also share which player is considered with risk and why.\n"
+    # prompt += "Also share which player is considered with risk and why.\n"
     prompt += "The JSON format should be as follows:\n"
     prompt += "{\n"
     prompt += '  "fantasy_team": [\n'
@@ -71,9 +68,9 @@ def generate_prompt(team1, team2, players_info_1, players_info_2, rules, scorebo
     prompt += '     "team_balance_valid": true,\n'
     prompt += '     "credit_usage_valid": true\n'
     prompt += "  }\n"
-    prompt += ' "not_selected_players": ['
-    prompt += '    {"player_id": 123, "name": "Player1", "role": "Batsman", "credit": 9.5, "team": "(from players info)", "reason for not selecting": "High strike rate"},\n'
-    prompt += ']\n'
+    # prompt += ' "not_selected_players": ['
+    # prompt += '    {"player_id": 123, "name": "Player1", "role": "Batsman", "credit": 9.5, "team": "(from players info)", "reason for not selecting": "High strike rate"},\n'
+    # prompt += ']\n'
     prompt += "}"
 
     return prompt

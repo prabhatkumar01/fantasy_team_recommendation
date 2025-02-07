@@ -124,6 +124,8 @@ scoreboards = scoreboards.download_files_from_gcs("ipl_2024_innings")
 
 prompt = generatePrompt.generate_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards)
 
+prompt = generatePrompt.generate_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards)
+
 generatePrompt.generate(prompt)
 
 
