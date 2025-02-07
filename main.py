@@ -122,7 +122,14 @@ point_system = {
 
 scoreboards = scoreboards.download_files_from_gcs("ipl_2024_innings")
 
-prompt = generatePrompt.generate_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards)
+# prompt = generatePrompt.generate_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards)
+
+player1 = input("Enter the player 1: ")
+player2 = input("Enter the player 2: ")
+
+# prompt = generatePrompt.generate_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards)
+
+prompt = generatePrompt.generate_autofill_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards, [player1,player2])
 
 generatePrompt.generate(prompt)
 

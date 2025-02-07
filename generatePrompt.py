@@ -2,6 +2,72 @@ from google.cloud import storage, aiplatform
 from google import genai
 from google.genai import types
 
+
+def generate_autofill_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards, selected_players):
+    prompt = f"Here are the details of the players in match for {team1}:\n\n"
+    
+    for player in players_info_1:
+        prompt += (
+            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['roles']}, "
+            f"Team Name: {player['teamName']}, Credit: {player['credit ']}, "
+            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['avg']}, "
+            f"Best Performance: {player['best_performance']}, Wickets: {player['wickets']}, "
+            f"Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
+            f"Bowling Strike Rate: {player['bolwing_strike_rate']}\n"
+        )
+
+    prompt += f"\nHere are the details of the players in match for {team2}:\n\n"
+    for player in players_info_2:
+        prompt += (
+            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['roles']}, "
+            f"Team Name: {player['teamName']}, Credit: {player['credit ']}, "
+            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['avg']}, "
+            f"Best Performance: {player['best_performance']}, Wickets: {player['wickets']}, "
+            f"Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
+            f"Bowling Strike Rate: {player['bolwing_strike_rate']}\n"
+        )
+
+    prompt += "\nUser has already selected the following players for the fantasy team:\n"
+    for player in selected_players:
+        prompt += (
+            f"Name: {player}"
+        )
+
+    prompt += f"\nFill the remaining {11 - len(selected_players)} players to complete the team while following these rules strictly:\n"
+    prompt += f"Team Composition: {rules['team_composition']}\n"
+    prompt += f"  Total Players: {rules['team_composition']['total_players']}\n"
+    for role, limits in rules['team_composition']['roles'].items():
+        prompt += f"  {role.capitalize()}: Min {limits['min']}, Max {limits['max']}\n"
+    prompt += f"Credit System: Total Credits {rules['credit_system']['total_credits']}\n"
+    prompt += "Player Selection Rules:\n"
+    prompt += f"  Max Players Per Team: {rules['player_selection_rules']['max_players_per_team']}\n"
+    prompt += f"  Captain Multiplier: {rules['player_selection_rules']['captain_multiplier']}\n"
+    prompt += f"  Vice Captain Multiplier: {rules['player_selection_rules']['vice_captain_multiplier']}\n"
+
+    prompt += "\nEnsure the final team follows all rules and remains within the credit limit.\n"
+    prompt += "Select a captain and vice-captain, ensuring they are impactful players.\n"
+
+    prompt += "Provide the response in the following JSON format:\n"
+    prompt += "{\n"
+    prompt += '  "fantasy_team": [\n'
+    prompt += '    {"player_id": 123, "name": "Player1", "role": "Batsman", "credit": 9.5, "team": "(from players info)", "reason": "High strike rate"},\n'
+    prompt += '    {"player_id": 456, "name": "Player2", "role": "Allrounder", "credit": 10.0, "team": "(from players info)", "reason": "Consistent wicket-taker"},\n'
+    prompt += "    ...\n"
+    prompt += "  ],\n"
+    prompt += '  "captain": {"player_id": 789, "name": "PlayerX", "reason": "High impact performance in last 3 matches"},\n'
+    prompt += '  "vice_captain": {"player_id": 101, "name": "PlayerY", "reason": "Best batting average among all players"},\n'
+    prompt += '  "total_credit_used": 99.5,\n'
+    prompt += '  "team_balance": {"CSK": 5, "KKR": 6},\n'
+    prompt += '  "validation": {\n'
+    prompt += '     "roles_valid": true,\n'
+    prompt += '     "team_balance_valid": true,\n'
+    prompt += '     "credit_usage_valid": true\n'
+    prompt += "  }\n"
+    prompt += '}\n'
+
+    return prompt
+
+
 def generate_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards):
 
     prompt = f"Here are the details of the players in match for {team1}:\n\n"
