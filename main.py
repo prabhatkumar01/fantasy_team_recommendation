@@ -5,7 +5,7 @@ import scoreboards
 team1 = input("Enter the name of Team 1: ")
 team2 = input("Enter the name of Team 2: ")
 
-players_info = getPlayingXI.getPlayingXI(team1, team2)
+players_info_1, players_info_2 = getPlayingXI.getPlayingXI(team1, team2)
 # print(players_info)
 
 
@@ -120,9 +120,9 @@ point_system = {
     }
   }
 
-scoreboards = scoreboards.download_files_from_gcs("ipl-scoreboards-2024")
+scoreboards = scoreboards.download_files_from_gcs("ipl_2024_innings")
 
-prompt = generatePrompt.generate_prompt(players_info, rules, scoreboards)
+prompt = generatePrompt.generate_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards)
 
 generatePrompt.generate(prompt)
 
