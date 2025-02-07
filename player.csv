@@ -1,0 +1,263 @@
+id,name,playingRoles,teamId,teamName,match,wickets,economy,five_wicket,bolwing_strike_rate,best_bolling_performance,runs,batting_avg,high_score,batting_strike_rate,bowling_avg,credit
+1060380,RD Gaikwad,batter,335974,CSK,23,0,,,,,633,39.56,123*,143.53,,9
+8917,MM Ali,batting allrounder,335974,CSK,92,51,8.31,0,19.5,3/24,1229,21.18,72*,142.41,27.13,8
+1408675,Aravelly Avanish,wicketkeeper batter,335974,CSK,0,0,,,,,,,,,,7
+447261,DL Chahar,bowler,335974,CSK,25,31,8.3,0,17.4,6/7,53,26.5,31,189.28,24.09,6
+822553,TU Deshpande,bowler,335974,CSK,2,2,9.16,0,18,1/25,,,,,27.5,7
+28081,MS Dhoni,wicketkeeper batter,335974,CSK,98,0,,,,,1617,37.6,56,126.13,,9
+714451,S Dube,allrounder,335974,CSK,35,13,9.36,0,21.9,3/30,531,31.23,63*,140.1,34.23,9
+473191,RJ Gleeson,bowler,335974,CSK,6,9,8.9,0,14,3/15,2,1,2,50,20.77,7
+1175429,RS Hangargekar,bowling allrounder,335974,CSK,0,0,,,,,,,,,,7
+234675,RA Jadeja,allrounder,335974,CSK,74,54,7.13,0,25.1,3/15,515,21.45,46*,127.16,29.85,9
+1059570,AJ Mandal,allrounder,335974,CSK,0,0,,,,,,,,,,7
+381743,DJ Mitchell,batting allrounder,335974,CSK,70,9,10.59,0,11.8,2/27,1411,26.62,72*,139.28,21,9
+1125688,Mukesh Choudhary,bowler,335974,CSK,0,0,,,,,,,,,,7
+330902,Mustafizur Rahman,bowler,335974,CSK,106,132,7.51,3,17.2,6/10,87,4.57,15,74.35,21.62,6
+277916,AM Rahane,top-order batter,335974,CSK,20,0,,,,,375,20.83,61,113.29,,9
+1292497,SK Rasheed,batter,335974,CSK,0,0,,,,,,,,,,7
+959767,R Ravindra,batting allrounder,335974,CSK,26,13,6.58,0,18.9,3/22,309,17.16,69,127.68,20.76,9
+1175489,Sameer Rizvi,batter,335974,CSK,0,0,,,,,,,,,,7
+502714,MJ Santner,bowling allrounder,335974,CSK,109,120,7.03,3,18.9,4/11,725,16.86,77*,120.23,22.17,7
+1159722,Simarjeet Singh,bowler,335974,CSK,0,0,,,,,,,,,,7
+1292506,N Sindhu,allrounder,335974,CSK,0,0,,,,,,,,,,7
+1252337,PH Solanki,bowler,335974,CSK,0,0,,,,,,,,,,7
+475281,SN Thakur,bowler,335974,CSK,25,33,9.15,1,15.3,4/27,69,23,22*,181.57,23.39,8
+1138316,M Theekshana,bowler,335974,CSK,60,58,6.87,0,23.1,3/17,66,3.88,14,64.07,26.56,8
+379140,DP Conway,wicketkeeper batter,335974,CSK,50,0,,,,,1408,38.05,99*,127.76,,7
+1194795,M Pathirana,bowler,335974,CSK,19,30,8.44,2,11.4,4/24,17,3.4,6,53.12,16.13,6
+931581,RR Pant,wicketkeeper batter,335975,DC,76,0,,,,,1209,23.25,65*,127.26,,9
+1277545,Abishek Porel,wicketkeeper batter,335975,DC,0,0,,,,,,,,,,7
+942645,KK Ahmed,bowler,335975,DC,18,16,8.51,0,24.7,2/27,1,,1*,50,35.12,8
+642531,RK Bhui,top-order batter,335975,DC,0,0,,,,,,,,,,9
+1403198,SS Chikara,batter,335975,DC,0,0,,,,,,,,,,7
+1292498,YV Dhull,top-order batter,335975,DC,0,0,,,,,,,,,,7
+777515,P Dubey,bowler,335975,DC,0,0,,,,,,,,,,7
+1168049,J Fraser-McGurk,batter,335975,DC,7,0,,,,,113,16.14,50,143.03,,8
+581379,SD Hope,wicketkeeper batter,335975,DC,39,0,,,,,847,26.46,82*,138.39,,9
+559235,Kuldeep Yadav,bowler,335975,DC,40,69,6.77,1,12.4,5/17,46,11.5,23*,77.96,14.07,7
+1207295,K Kushagra,wicketkeeper batter,335975,DC,0,0,,,,,,,,,,8
+930189,Lalit Yadav,allrounder,335975,DC,0,0,,,,,,,,,,7
+272450,MR Marsh,allrounder,335975,DC,65,17,7.74,0,17.6,3/24,1629,31.94,92*,135.41,22.76,9
+926851,Mukesh Kumar,bowler,335975,DC,17,20,9.01,1,16.2,4/22,5,5,4*,100,24.35,6
+481979,A Nortje,bowler,335975,DC,42,53,7.01,3,16.3,4/7,17,2.83,4*,48.57,19.16,7
+1292520,VK Ostwal,bowler,335975,DC,0,0,,,,,,,,,,7
+554691,AR Patel,allrounder,335975,DC,71,71,7.3,0,18.1,3/9,535,18.44,65,139.32,22.12,9
+1161489,Rasikh Salam,bowler,335975,DC,0,0,,,,,,,,,,7
+774223,JA Richardson,bowler,335975,DC,18,19,8.42,0,20.8,3/26,45,15,11,88.23,29.26,6
+236779,I Sharma,bowler,335975,DC,14,8,8.63,0,34.7,2/34,8,8,5*,88.88,50,6
+1070168,PP Shaw,opening batter,335975,DC,1,0,,,,,0,,0,0,,8
+595978,T Stubbs,batter,335975,DC,35,0,20.5,0,,,670,29.13,76,134.8,,7
+1159734,Sumit Kumar,allrounder,335975,DC,0,0,,,,,,,,,,7
+219889,DA Warner,opening batter,335975,DC,110,0,,,,,3277,33.43,100*,142.47,,9
+379887,LB Williams,bowler,335975,DC,15,20,9.5,0,15.5,3/35,6,1.5,2*,35.29,24.55,7
+911707,HC Brook,batter,335975,DC,44,0,,,,,798,28.5,81*,146.15,,7
+542023,L Ngidi,bowler,335975,DC,43,63,9.23,2,13.6,5/39,41,8.2,13*,78.84,20.93,7
+1070173,Shubman Gill,opening batter,1298769,GT,21,0,,,,,578,30.42,126*,139.27,,7
+819429,Azmatullah Omarzai,allrounder,1298769,GT,47,31,8.37,1,21.6,4/9,474,14.36,34,111,30.16,7
+1287033,Gurnoor Brar,bowler,1298769,GT,0,0,,,,,,,,,,7
+1123718,SH Johnson,bowler,1298769,GT,8,14,8.96,0,11.4,5/26,0,,0,0,17.07,6
+1122918,Kartik Tyagi,bowler,1298769,GT,0,0,,,,,,,,,,7
+928067,JB Little,bowler,1298769,GT,69,78,7.5,2,19.5,4/23,131,10.91,22*,85.62,24.48,7
+778963,A Manohar,batting allrounder,1298769,GT,0,0,,,,,,,,,,7
+321777,DA Miller,middle-order batter,1298769,GT,130,0,,,,,2591,33.21,106*,140.66,,8
+1111917,DG Nalkande,bowler,1298769,GT,0,0,,,,,,,,,,6
+1182529,Noor Ahmad,bowler,1298769,GT,14,7,6.94,1,32.5,4/10,41,6.83,12,77.35,37.71,8
+793463,Rashid Khan,bowling allrounder,1298769,GT,96,161,6.08,8,13.6,5/3,467,13.73,48*,126.21,13.8,7
+279810,WP Saha,wicketkeeper batter,1298769,GT,0,0,,,,,,,,,,8
+1048739,R Sai Kishore,bowler,1298769,GT,3,4,5.25,0,18,3/12,,,,,15.75,7
+1151288,B Sai Sudharsan,top-order batter,1298769,GT,1,0,,,,,,,,,,7
+592735,S Sandeep Warrier,bowler,1298769,GT,1,0,7.66,0,,,,,,,,7
+719719,M Shahrukh Khan,batter,1298769,GT,0,0,,,,,,,,,,7
+477021,V Shankar,allrounder,1298769,GT,9,5,9.09,0,25.2,2/32,101,25.25,43,138.35,38.2,8
+917231,BR Sharath,wicketkeeper batter,1298769,GT,0,0,,,,,,,,,,7
+537119,MM Sharma,bowler,1298769,GT,8,6,8.04,0,23,2/28,3,,3*,42.85,30.83,7
+1175426,MJ Suthar,bowling allrounder,1298769,GT,0,0,,,,,,,,,,7
+423838,R Tewatia,bowling allrounder,1298769,GT,0,0,,,,,,,,,,7
+230193,MS Wade,wicketkeeper batter,1298769,GT,92,0,,,,,1202,26.13,80,134.15,,8
+277906,KS Williamson,top-order batter,1298769,GT,93,6,8.33,0,19.6,2/16,2575,33.44,95,123.08,27.33,9
+447587,J Yadav,bowler,1298769,GT,0,0,,,,,,,,,,7
+376116,UT Yadav,bowler,1298769,GT,9,12,9.33,0,15,2/19,22,22,20*,104.76,23.33,7
+1350762,R Minz,wicketkeeper,1298769,GT,0,0,,,,,,,,,,7
+1175457,SS Mishra,bowler,1298769,GT,0,0,,,,,,,,,,7
+481896,Mohammed Shami,bowler,1298769,GT,25,27,8.95,0,18.8,3/15,6,3,6,60,28.18,7
+642519,SS Iyer,top-order batter,335971,KKR,51,0,6,0,,,1104,30.66,74*,136.12,,7
+1209292,VG Arora,bowler,335971,KKR,0,0,,,,,,,,,,7
+529436,KS Bharat,wicketkeeper batter,335971,KKR,0,0,,,,,,,,,,7
+552152,PVD Chameera,bowler,335971,KKR,55,55,8.08,1,21.4,4/17,101,6.73,24*,89.38,28.87,7
+1326798,AM Ghazanfar,bowler,335971,KKR,0,0,,,,,,,,,,7
+1312645,Harshit Rana,bowler,335971,KKR,1,3,8.25,0,8,3/33,,,,,11,6
+851403,VR Iyer,allrounder,335971,KKR,9,5,8.18,0,11,2/23,133,33.25,35*,162.19,15,7
+230558,SP Narine,bowling allrounder,335971,KKR,51,52,6.01,1,21.1,4/12,155,10.33,30,112.31,21.25,8
+290630,MK Pandey,top-order batter,335971,KKR,39,0,,,,,709,44.31,79*,126.15,,7
+1292495,A Raghuvanshi,top-order batter,335971,KKR,0,0,,,,,,,,,,7
+974087,Rahmanullah Gurbaz,wicketkeeper batter,335971,KKR,66,0,,,,,1683,25.5,100,134.42,,7
+1079470,Ramandeep Singh,middle-order batter,335971,KKR,2,1,12.6,0,20,1/42,15,15,15,250,42,7
+604527,N Rana,middle-order batter,335971,KKR,2,0,,,,,15,7.5,9,55.55,,7
+1079839,AS Roy,allrounder,335971,KKR,0,0,,,,,,,,,,7
+276298,AD Russell,allrounder,335971,KKR,83,60,9.27,0,19.8,3/19,1063,22.14,71,164.04,30.68,9
+914541,SE Rutherford,middle-order batter,335971,KKR,28,1,10.28,0,42,1/21,428,25.17,68*,143.14,72,7
+1131754,C Sakariya,bowler,335971,KKR,2,1,9.27,0,22,1/34,5,,5*,55.55,34,7
+1340422,Sakib Hussain,bowler,335971,KKR,0,0,,,,,,,,,,7
+723105,RK Singh,middle-order batter,335971,KKR,33,2,3,0,3,2/3,546,42,69*,161.06,1.5,7
+311592,MA Starc,bowler,335971,KKR,65,79,7.74,1,18.4,4/20,98,9.8,14,98,23.81,7
+1350792,Suyash Sharma,bowler,335971,KKR,0,0,,,,,,,,,,7
+1108375,CV Varun,bowler,335971,KKR,18,33,7.02,0,12.4,5/17,1,0.5,1*,16.66,14.57,7
+1039481,AAP Atkinson,bowler,335971,KKR,4,6,11.26,1,10.8,4/20,10,10,8*,43.47,20.33,7
+974109,Mujeeb Ur Rahman,bowler,335971,KKR,49,63,6.33,1,17.1,5/20,54,9,21,122.72,18.11,7
+298438,JJ Roy,opening batter,335971,KKR,64,0,,,,,1522,24.15,78,137.61,,7
+669365,PD Salt,wicketkeeper batter,335971,KKR,43,0,,,,,1193,34.08,119,164.32,,9
+422108,KL Rahul,wicketkeeper batter,1298768,LSG,72,0,,,,,2265,37.75,110*,139.12,,8
+1244751,Arshad Khan,bowler,1298768,LSG,0,0,,,,,,,,,,7
+1151270,A Badoni,batter,1298768,LSG,0,0,,,,,,,,,,8
+379143,Q de Kock,wicketkeeper batter,1298768,LSG,92,0,,,,,2584,31.51,100,138.32,,9
+424377,K Gowtham,bowling allrounder,1298768,LSG,0,0,,,,,,,,,,7
+506612,MJ Henry,bowler,1298768,LSG,21,27,8.29,0,17.1,3/32,24,6,12,88.88,23.66,7
+497121,DJ Hooda,allrounder,1298768,LSG,21,6,4.8,1,15.8,4/10,368,30.66,104,147.2,12.66,7
+1356971,S Joseph,bowler,1298768,LSG,9,10,9.67,0,16.8,3/31,5,,5*,125,27.1,6
+1403153,AA Kulkarni,allrounder,1298768,LSG,0,0,,,,,,,,,,7
+956871,PN Mankad,allrounder,1298768,LSG,0,0,,,,,,,,,,7
+348056,KR Mayers,batting allrounder,1298768,LSG,38,0,9.5,0,,,762,21.77,73,138.29,,7
+31107,A Mishra,bowler,1298768,LSG,10,16,6.31,0,14.2,3/24,0,,0,,15,7
+1132005,Mohsin Khan,bowler,1298768,LSG,0,0,,,,,,,,,,7
+793447,Naveen-ul-Haq,bowler,1298768,LSG,48,67,7.78,2,14.4,4/20,44,4.88,13,67.69,18.73,8
+1119026,D Padikkal,top-order batter,1298768,LSG,2,0,,,,,38,19,29,100,,7
+471342,KH Pandya,allrounder,1298768,LSG,19,15,8.1,1,27.3,4/36,124,24.8,26*,130.52,36.93,8
+604302,N Pooran,wicketkeeper batter,1298768,LSG,106,0,,,,,2275,26.14,98,136.39,,7
+1175441,Ravi Bishnoi,bowler,1298768,LSG,42,61,7.35,2,15.8,4/13,55,7.85,9*,130.95,19.37,7
+1151286,M Siddharth,bowler,1298768,LSG,0,0,,,,,,,,,,7
+325012,MP Stoinis,batting allrounder,1298768,LSG,74,45,8.72,1,16.6,4/23,1245,31.92,78,148.56,24.24,8
+500268,AJ Turner,middle-order batter,1298768,LSG,19,4,6.3,0,19.5,2/12,110,12.22,24,83.96,20.5,7
+1292563,MP Yadav,bowler,1298768,LSG,3,4,6.91,0,18,2/32,1,,1*,100,20.75,7
+1070196,Yash Thakur,bowler,1298768,LSG,0,0,,,,,,,,,,6
+1206052,Yudhvir Singh,bowler,1298768,LSG,0,0,,,,,,,,,,7
+1079848,Shivam Mavi,bowler,1298768,LSG,6,7,8.78,1,12,4/22,28,14,26,155.55,17.57,7
+308251,DJ Willey,bowling allrounder,1298768,LSG,43,51,8.18,1,16.9,4/7,226,15.06,33*,130.63,23.13,7
+351588,MA Wood,bowler,1298768,LSG,38,54,8.45,0,14.3,3/9,27,13.5,10*,96.42,20.24,7
+625371,HH Pandya,allrounder,335978,MI,114,94,8.2,3,19.3,4/16,1812,27.87,71*,141.67,26.43,8
+1070665,D Brevis,batting allrounder,335978,MI,2,0,,,,,5,2.5,5,71.42,,8
+625383,JJ Bumrah,bowler,335978,MI,70,89,6.27,0,16.9,3/7,8,2.66,7,57.14,17.74,8
+32966,PP Chawla,bowling allrounder,335978,MI,7,4,6.56,0,34.5,2/13,0,,0,0,37.75,7
+596010,G Coetzee,bowler,335978,MI,10,12,10.57,0,17.1,3/32,81,11.57,23,135,30.25,7
+892749,TH David,middle-order batter,335978,MI,54,5,9.32,0,32.8,1/18,1201,33.36,92*,161.2,51,8
+1070195,HM Desai,wicketkeeper batter,335978,MI,0,0,,,,,,,,,,7
+344580,S Gopal,allrounder,335978,MI,0,0,,,,,,,,,,7
+720471,Ishan Kishan,wicketkeeper batter,335978,MI,32,0,,,,,796,25.67,89,124.37,,8
+1175428,A Kamboj,allrounder,335978,MI,0,0,,,,,,,,,,7
+1159843,K Kartikeya,bowler,335978,MI,0,0,,,,,,,,,,7
+1206039,A Madhwal,bowler,335978,MI,0,0,,,,,,,,,,7
+1294342,KT Maphaka,bowler,335978,MI,5,3,9.98,0,33.6,2/39,16,,12*,84.21,56,6
+25913,Mohammad Nabi,allrounder,335978,MI,132,97,7.3,3,23.1,4/10,2237,22.59,89,136.23,28.14,7
+1131607,SZ Mulani,allrounder,335978,MI,0,0,,,,,,,,,,7
+1287032,Naman Dhir,top-order batter,335978,MI,0,0,,,,,,,,,,7
+34102,RG Sharma,top-order batter,335978,MI,159,1,9.97,0,68,1/22,4231,32.05,121*,140.89,113,9
+1167965,SS Sharma,batter,335978,MI,0,0,,,,,,,,,,7
+677077,R Shepherd,bowling allrounder,335978,MI,53,56,9.8,1,16.8,4/31,537,26.85,44*,139.11,27.53,8
+1148776,AS Tendulkar,bowler,335978,MI,0,0,,,,,,,,,,7
+955235,N Thushara,bowler,335978,MI,18,26,7.65,2,13.1,5/20,9,4.5,6,52.94,16.73,7
+1170265,NT Tilak Varma,batting allrounder,335978,MI,25,2,5.2,0,15,1/5,749,49.93,120*,155.07,13,8
+1151273,N Wadhera,top-order batter,335978,MI,0,0,,,,,,,,,,7
+573170,L Wood,bowler,335978,MI,5,8,9.66,0,13.5,3/24,3,3,3,75,21.75,6
+446507,SA Yadav,batter,335978,MI,83,2,5,0,3,2/5,2598,38.2,117,167.07,2.5,7
+272477,JP Behrendorff,bowler,335978,MI,17,18,8.35,1,17.6,4/21,7,7,5,77.77,24.61,7
+793007,D Madushanka,bowler,335978,MI,15,15,9.75,0,19.6,3/24,2,0.5,1*,28.57,31.86,7
+732293,Vishnu Vinod,wicketkeeper batter,335978,MI,0,0,,,,,,,,,,7
+28235,S Dhawan,opening batter,335973,PBKS,68,0,,,,,1759,27.92,92,126.36,,9
+1125976,Arshdeep Singh,bowler,335973,PBKS,63,99,8.29,2,13.2,4/9,71,8.87,12,116.39,18.3,7
+1064812,RD Chahar,bowler,335973,PBKS,6,7,7.59,0,18.8,3/15,5,5,5,100,23.85,6
+290727,R Dhawan,allrounder,335973,PBKS,1,1,10.5,0,24,1/42,1,,1*,50,42,6
+826915,NT Ellis,bowler,335973,PBKS,20,32,7.65,1,13.2,4/28,18,6,11*,47.36,16.9,7
+1168641,Harpreet Brar,bowler,335973,PBKS,0,0,,,,,,,,,,7
+340854,Harpreet Singh,batter,335973,PBKS,0,0,,,,,,,,,,7
+1155262,V Kaverappa,bowler,335973,PBKS,0,0,,,,,,,,,,7
+390481,HV Patel,bowler,335973,PBKS,25,29,9.18,1,17.3,4/25,77,12.83,18,135.08,26.55,6
+1161024,Prabhsimran Singh,wicketkeeper batter,335973,PBKS,0,0,,,,,,,,,,9
+1412827,Prince Choudhary,,335973,PBKS,0,0,,,,,,,,,,7
+318845,RR Rossouw,top-order batter,335973,PBKS,29,0,,,,,767,34.86,109,159.79,,7
+1131978,AR Sharma,batting allrounder,335973,PBKS,0,0,,,,,,,,,,7
+721867,JM Sharma,wicketkeeper batter,335973,PBKS,9,0,,,,,100,14.28,35,147.05,,9
+377534,Shashank Singh,batting allrounder,335973,PBKS,0,0,,,,,,,,,,7
+1380113,Shivam Singh,allrounder,335973,PBKS,0,0,,,,,,,,,,7
+299572,Sikandar Raza,batting allrounder,335973,PBKS,102,79,6.88,2,19.8,5/18,2347,26.07,133*,137.17,22.78,7
+1354639,VP Singh,,335973,PBKS,0,0,,,,,,,,,,7
+1125958,A Taide,batting allrounder,335973,PBKS,0,0,,,,,,,,,,8
+1080008,T Thyagarajan,bowler,335973,PBKS,0,0,,,,,,,,,,7
+297433,JM Bairstow,wicketkeeper batter,335973,PBKS,80,0,,,,,1671,29.83,90,137.53,,9
+662973,SM Curran,allrounder,335973,PBKS,58,54,8.41,0,19.3,5/10,356,14.24,50,124.47,27.07,9
+403902,LS Livingstone,batting allrounder,335973,PBKS,60,33,8.72,0,17.4,3/17,955,25.13,103,148.98,25.39,8
+550215,K Rabada,bowler,335973,PBKS,65,71,8.3,0,19.6,3/18,156,17.33,22,110.63,27.15,7
+247235,CR Woakes,allrounder,335973,PBKS,33,31,8.07,0,19.7,3/4,147,16.33,37,125.64,26.51,7
+425943,SV Samson,wicketkeeper batter,335977,RR,42,0,,,,,861,25.32,111,152.38,,8
+1201536,Abid Mushtaq,allrounder,335977,RR,0,0,,,,,,,,,,7
+26421,R Ashwin,bowling allrounder,335977,RR,65,72,6.9,2,20.1,4/8,184,26.28,31*,115,23.22,8
+694211,Avesh Khan,bowler,335977,RR,25,27,9.04,1,18.4,4/18,27,13.5,16,135,27.85,7
+277912,TA Boult,bowler,335977,RR,61,83,7.68,2,16.7,4/13,58,8.28,16,90.62,21.43,8
+971349,N Burger,bowler,335977,RR,2,1,12.28,0,42,1/39,1,1,1,33.33,86,7
+308967,JC Buttler,wicketkeeper batter,335977,RR,134,0,,,,,3535,35.35,101*,146.61,,9
+430246,YS Chahal,bowler,335977,RR,80,96,8.19,2,18.3,6/25,6,3,3*,46.15,25.09,8
+1252585,SB Dubey,middle-order batter,335977,RR,0,0,,,,,,,,,,7
+698315,D Ferreira,allrounder,335977,RR,6,0,12.33,0,,,79,15.8,48,158,,7
+670025,SO Hetmyer,middle-order batter,335977,RR,62,0,,,,,942,20.04,81*,118.49,,7
+1151278,YBK Jaiswal,opening batter,335977,RR,23,0,11,0,,,723,36.15,100,164.31,,9
+1175488,DC Jurel,wicketkeeper batter,335977,RR,4,0,,,,,12,4,6,52.17,,8
+470633,T Kohler-Cadmore,wicketkeeper batter,335977,RR,0,0,,,,,,,,,,7
+1125960,TK Kotian,bowling allrounder,335977,RR,0,0,,,,,,,,,,7
+267724,KA Maharaj,bowler,335977,RR,39,38,7.33,0,21.1,3/27,103,11.44,41,89.56,25.84,7
+1079434,R Parag,top-order batter,335977,RR,9,4,6.72,0,18.5,3/5,106,17.66,34,151.42,20.75,7
+820351,R Powell,middle-order batter,335977,RR,91,5,9.93,0,26.2,2/31,1747,25.69,107,140.32,43.4,7
+1339031,KS Rathore,wicketkeeper batter,335977,RR,0,0,,,,,,,,,,7
+700167,NA Saini,bowler,335977,RR,11,13,7.15,0,15.1,3/17,12,,11*,109.09,18.07,7
+438362,Sandeep Sharma,bowler,335977,RR,2,1,10.42,0,42,1/39,1,,1*,100,73,6
+1163695,KR Sen,bowler,335977,RR,0,0,,,,,,,,,,7
+917159,M Prasidh Krishna,bowler,335977,RR,5,8,11,0,15,3/41,,,,,27.5,7
+379504,A Zampa,bowler,335977,RR,95,117,7.16,2,17.5,5/19,68,5.66,13*,89.47,21,7
+44828,F du Plessis,middle-order batter,335970,RCB,50,0,2.25,0,,,1528,35.53,119,134.38,,9
+1176959,Akash Deep,bowler,335970,RCB,0,0,,,,,,,,,,6
+1123073,Anuj Rawat,wicketkeeper batter,335970,RCB,0,0,,,,,,,,,,8
+1057399,MS Bhandage,allrounder,335970,RCB,0,0,,,,,,,,,,7
+1287369,SD Chauhan,top-order batter,335970,RCB,0,0,,,,,,,,,,7
+550235,TK Curran,allrounder,335970,RCB,30,29,9.25,1,20.2,4/36,64,10.66,14*,114.28,31.27,7
+942367,MJ Dagar,bowler,335970,RCB,0,0,,,,,,,,,,7
+493773,LH Ferguson,bowler,335970,RCB,43,64,7.1,2,14.3,5/21,29,3.62,14,80.55,17,7
+1076713,C Green,batting allrounder,335970,RCB,13,12,8.9,0,15.6,3/35,263,26.3,62*,152.9,23.25,9
+897549,WG Jacks,batting allrounder,335970,RCB,23,1,13.66,0,18,1/5,383,18.23,40,136.78,41,7
+670031,AS Joseph,bowler,335970,RCB,38,54,8.67,2,15.5,5/40,121,17.28,21*,104.31,22.5,7
+30045,KD Karthik,wicketkeeper batter,335970,RCB,60,0,18,0,,,686,26.38,55,142.61,,8
+253802,V Kohli,top-order batter,335970,RCB,125,4,8.05,0,38,1/13,4188,48.69,122*,137.04,51,9
+853265,MK Lomror,allrounder,335970,RCB,0,0,,,,,,,,,,8
+325026,GJ Maxwell,batting allrounder,335970,RCB,116,43,8.04,0,22.9,3/10,2664,29.93,145*,154.97,30.72,9
+940973,Mohammed Siraj,bowler,335970,RCB,16,14,7.79,1,24.8,4/17,14,7,7*,87.5,32.28,8
+823703,RM Patidar,top-order batter,335970,RCB,0,0,,,,,,,,,,9
+1083851,SS Prabhudessai,batting allrounder,335970,RCB,0,0,,,,,,,,,,7
+1339027,Rajan Kumar,bowler,335970,RCB,0,0,,,,,,,,,,7
+30288,KV Sharma,bowler,335970,RCB,1,1,7,0,24,1/28,,,,,28,7
+1350761,H Sharma,bowler,335970,RCB,0,0,,,,,,,,,,7
+232292,Swapnil Singh,bowler,335970,RCB,0,0,,,,,,,,,,7
+461632,RJW Topley,bowler,335970,RCB,35,33,8.31,0,21.3,3/22,17,8.5,9,85,29.63,7
+777815,V Vyshak,bowler,335970,RCB,0,0,,,,,,,,,,7
+1159720,Yash Dayal,bowler,335970,RCB,0,0,,,,,,,,,,7
+489889,PJ Cummins,bowler,628333,SRH,57,66,7.44,0,19,3/15,158,10.53,28,118.79,23.57,7
+1175485,Abdul Samad,batter,628333,SRH,0,0,,,,,,,,,,7
+1070183,Abhishek Sharma,batting allrounder,628333,SRH,17,6,8.05,0,19,2/3,535,33.43,135,193.84,25.5,9
+398438,MA Agarwal,batter,628333,SRH,0,0,,,,,,,,,,8
+1175458,Akash Singh,bowler,628333,SRH,0,0,,,,,,,,,,7
+851261,Anmolpreet Singh,batter,628333,SRH,0,0,,,,,,,,,,7
+974175,Fazalhaq Farooqi,bowler,628333,SRH,43,54,6.7,1,17,5/9,12,4,4*,63.15,19.09,7
+530011,TM Head,top-order batter,628333,SRH,38,1,9.33,0,36,1/16,1093,33.12,91,160.49,56,9
+696401,M Jansen,bowling allrounder,628333,SRH,17,16,8.13,0,23.3,3/16,166,18.44,54,149.54,31.62,7
+436757,H Klaasen,wicketkeeper batter,628333,SRH,58,0,14,0,,,1000,23.25,81,141.84,,7
+326016,B Kumar,bowler,628333,SRH,87,90,6.96,3,19.9,5/4,67,8.37,16,71.27,23.1,7
+1081442,M Markande,bowler,628333,SRH,1,0,7.75,0,,,,,,,,7
+600498,AK Markram,allrounder,628333,SRH,57,13,8.54,0,26.3,3/21,1367,30.37,70,143.89,37.46,9
+802575,T Natarajan,bowler,628333,SRH,4,7,7.62,0,13.7,3/30,,,,,17.42,7
+1175496,K Nitish Kumar Reddy,batting allrounder,628333,SRH,4,3,7.88,0,18,2/23,90,45,74,180,23.66,7
+823509,GD Phillips,allrounder,628333,SRH,83,6,7.35,0,21.3,3/6,1929,31.11,108,140.59,26.16,7
+1132219,Sanvir Singh,allrounder,628333,SRH,0,0,,,,,,,,,,7
+1159711,Shahbaz Ahmed,allrounder,628333,SRH,2,2,7.68,0,16,1/13,,,,,20.5,9
+919531,J Subramanyan,bowler,628333,SRH,0,0,,,,,,,,,,7
+446763,RA Tripathi,top-order batter,628333,SRH,5,0,,,,,97,19.4,44,144.77,,9
+1246528,Umran Malik,bowler,628333,SRH,8,11,10.48,0,12.6,3/48,5,,4*,250,22.09,6
+390484,JD Unadkat,bowler,628333,SRH,10,14,8.68,0,14.8,3/38,,,,,21.5,6
+1153149,V Viyaskanth,bowler,628333,SRH,1,1,7,0,24,1/28,13,,13*,68.42,28,7
+719715,Washington Sundar,bowling allrounder,628333,SRH,54,48,6.94,0,20.3,3/15,193,13.78,50,121.38,23.5,8
+732269,UD Yadav,wicketkeeper batter,628333,SRH,0,0,,,,,,,,,,7
+784379,PW Hasaranga,allrounder,628333,SRH,79,131,6.98,4,13.2,4/9,712,13.43,71,128.98,15.41,7
