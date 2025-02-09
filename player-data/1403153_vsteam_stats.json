@@ -1,0 +1,105 @@
+{
+    "player_id": 1403153,
+    "player_name": "AA Kulkarni",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": 15,
+            "total_wickets_taken": 1,
+            "highest_score": 15,
+            "best_bowling_figure": "1/20",
+            "batting_average": 15.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 107.14,
+            "bowling_strike_rate": 12.0
+        },
+        "PBKS": {
+            "total_runs_scored": 25,
+            "total_wickets_taken": 2,
+            "highest_score": 25,
+            "best_bowling_figure": "2/25",
+            "batting_average": 25.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 125.0,
+            "bowling_strike_rate": 10.0
+        },
+        "DC": {
+            "total_runs_scored": 10,
+            "total_wickets_taken": 0,
+            "highest_score": 10,
+            "best_bowling_figure": null,
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 90.91,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs_scored": 30,
+            "total_wickets_taken": 3,
+            "highest_score": 30,
+            "best_bowling_figure": "3/30",
+            "batting_average": 30.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 136.36,
+            "bowling_strike_rate": 8.0
+        },
+        "MI": {
+            "total_runs_scored": 5,
+            "total_wickets_taken": 1,
+            "highest_score": 5,
+            "best_bowling_figure": "1/15",
+            "batting_average": 5.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 83.33,
+            "bowling_strike_rate": 15.0
+        },
+        "RR": {
+            "total_runs_scored": 20,
+            "total_wickets_taken": 2,
+            "highest_score": 20,
+            "best_bowling_figure": "2/20",
+            "batting_average": 20.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 111.11,
+            "bowling_strike_rate": 11.0
+        },
+        "SRH": {
+            "total_runs_scored": 12,
+            "total_wickets_taken": 0,
+            "highest_score": 12,
+            "best_bowling_figure": null,
+            "batting_average": 12.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs_scored": 8,
+            "total_wickets_taken": 1,
+            "highest_score": 8,
+            "best_bowling_figure": "1/8",
+            "batting_average": 8.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 72.73,
+            "bowling_strike_rate": 20.0
+        },
+        "RCB": {
+            "total_runs_scored": 18,
+            "total_wickets_taken": 2,
+            "highest_score": 18,
+            "best_bowling_figure": "2/18",
+            "batting_average": 18.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 112.5,
+            "bowling_strike_rate": 13.5
+        }
+    }
+}

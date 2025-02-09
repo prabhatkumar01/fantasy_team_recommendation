@@ -1,0 +1,114 @@
+{
+    "data": {
+        "captain": {
+            "name": "RA Jadeja",
+            "player_id": 234675,
+            "reason": "Consistent performer with both bat and ball, crucial for the allrounder heavy strategy."
+        },
+        "fantasy_team": [
+            {
+                "credit": 9,
+                "name": "RD Gaikwad",
+                "player_id": 1060380,
+                "reason": "Consistent run-scorer with a good average (39.56) and has played significant matches (23) showing consistency. Batting friendly pitch will favor.",
+                "role": "Batsman",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "S Dube",
+                "player_id": 714451,
+                "reason": "Allrounder with decent batting average (31.23) and capable of picking up wickets. A batting friendly pitch helps scoring runs.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "MS Dhoni",
+                "player_id": 28081,
+                "reason": "Experienced wicketkeeper-batsman with a good average (37.6) and a proven match-winner. Wankhede favors experienced players.",
+                "role": "Wicketkeeper Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 7,
+                "name": "DP Conway",
+                "player_id": 379140,
+                "reason": "High average (38.05) in 50 matches which will be useful for scoring runs on a batting friendly pitch.",
+                "role": "Wicketkeeper Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "RA Jadeja",
+                "player_id": 234675,
+                "reason": "Valuable all-rounder with both batting and bowling contributions. Good economy and bowling strike rate in multiple matches.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 6,
+                "name": "Mustafizur Rahman",
+                "player_id": 330902,
+                "reason": "Experienced bowler with high wicket-taking ability. Economy and bowling strike rate is decent.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "SN Thakur",
+                "player_id": 475281,
+                "reason": "Bowlwer with wickets and average Economy, and bowling strike rate. Can get wickets given bowling allrounder.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "R Shepherd",
+                "player_id": 677077,
+                "reason": "Bowling Allrounder, has wickets with average Economy and bowling strike rate. Also helps with strike rate given bowling allrounder.",
+                "role": "Bowling Allrounder",
+                "team": "MI"
+            },
+            {
+                "credit": 7,
+                "name": "D Madushanka",
+                "player_id": 793007,
+                "reason": "Bowler with wickets, and average Economy and bowling strike rate.",
+                "role": "Bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 8,
+                "name": "JJ Bumrah",
+                "player_id": 625383,
+                "reason": "Key bowler for MI, known for his consistent performance and economy.",
+                "role": "Bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 8,
+                "name": "Ishan Kishan",
+                "player_id": 720471,
+                "reason": "Aggressive wicketkeeper-batsman capable of providing a quick start. Batting friendly pitch and good strike rate is ideal.",
+                "role": "Wicketkeeper Batter",
+                "team": "MI"
+            }
+        ],
+        "team_balance": {
+            "CSK": 7,
+            "MI": 4
+        },
+        "total_credit_used": 96,
+        "validation": {
+            "credit_usage_valid": true,
+            "roles_valid": true,
+            "team_balance_valid": true
+        },
+        "vice_captain": {
+            "name": "RD Gaikwad",
+            "player_id": 1060380,
+            "reason": "High average and is a consistent run-scorer in matches, ideal for batting friendly pitch."
+        }
+    }
+}

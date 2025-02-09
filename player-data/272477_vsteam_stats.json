@@ -1,0 +1,105 @@
+{
+    "player_id": 272477,
+    "player_name": "JP Behrendorff",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 0,
+            "total_wickets": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/37",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "PBKS": {
+            "total_runs": 0,
+            "total_wickets": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/32",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 18.0
+        },
+        "LSG": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "DC": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "CSK": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "RR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "SRH": {
+            "total_runs": 0,
+            "total_wickets": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/28",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "KKR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "RCB": {
+            "total_runs": 0,
+            "total_wickets": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/31",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        }
+    }
+}

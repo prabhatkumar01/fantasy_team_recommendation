@@ -1,0 +1,114 @@
+{
+    "data": {
+        "captain": {
+            "name": "RD Gaikwad",
+            "player_id": 1060380,
+            "reason": "Consistent performer with the bat, high average, and a reliable top-order batsman. Key to setting a good foundation."
+        },
+        "fantasy_team": [
+            {
+                "credit": 9,
+                "name": "RD Gaikwad",
+                "player_id": 1060380,
+                "reason": "Excellent average of 39.56 in 23 matches, top-order batter crucial for setting the tone.Wankhede stadium favours top order batter. Batting Friendly Pitch",
+                "role": "Batsman",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "S Dube",
+                "player_id": 714451,
+                "reason": "Allrounder with a decent average of 31.23 and 13 wickets in 35 matches. Expected to contribute with both bat and ball.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "MS Dhoni",
+                "player_id": 28081,
+                "reason": "Experienced wicketkeeper-batsman with a solid average of 37.6 in 98 matches. His experience and finishing abilities are valuable.",
+                "role": "Wicketkeeper",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "RA Jadeja",
+                "player_id": 234675,
+                "reason": "Quality all-rounder with 54 wickets and a decent batting average. Economical bowler and handy lower-order batsman.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 7,
+                "name": "DP Conway",
+                "player_id": 379140,
+                "reason": "Solid average of 38.05 in 50 matches, provides stability at the top of the order. Wankhede Pitch will favour him.",
+                "role": "Batsman",
+                "team": "CSK"
+            },
+            {
+                "credit": 6,
+                "name": "DL Chahar",
+                "player_id": 447261,
+                "reason": "Key bowler with 31 wickets in 25 matches, expected to take early wickets. Average Economy and Strike Rate",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 6,
+                "name": "M Pathirana",
+                "player_id": 1194795,
+                "reason": "Promising bowler with a good strike rate of 11.4 and 30 wickets in 19 matches. Can be a wicket-taking option.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "HH Pandya",
+                "player_id": 625371,
+                "reason": "Key all-rounder for MI. Good record with both Bat and Bowl",
+                "role": "Allrounder",
+                "team": "MI"
+            },
+            {
+                "credit": 8,
+                "name": "Ishan Kishan",
+                "player_id": 720471,
+                "reason": "Aggressive top-order batsman and wicketkeeper. Can provide quick runs and valuable points with dismissals.",
+                "role": "Wicketkeeper",
+                "team": "MI"
+            },
+            {
+                "credit": 8,
+                "name": "JJ Bumrah",
+                "player_id": 625383,
+                "reason": "Star bowler for MI with an excellent economy rate of 6.27 and 89 wickets in 70 matches. Expected to lead the bowling attack.",
+                "role": "Bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 7,
+                "name": "D Madushanka",
+                "player_id": 793007,
+                "reason": "Showing great promise recently and picked up a lot of wickets",
+                "role": "Bowler",
+                "team": "MI"
+            }
+        ],
+        "team_balance": {
+            "CSK": 7,
+            "MI": 4
+        },
+        "total_credit_used": 95,
+        "validation": {
+            "credit_usage_valid": true,
+            "roles_valid": true,
+            "team_balance_valid": true
+        },
+        "vice_captain": {
+            "name": "JJ Bumrah",
+            "player_id": 625383,
+            "reason": "Star Bowler with good stats and crucial for wickets."
+        }
+    }
+}

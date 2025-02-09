@@ -1,0 +1,105 @@
+{
+    "player_id": 1207295,
+    "player_name": "K Kushagra",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": 12,
+            "total_wickets_taken": 0,
+            "highest_score": 12,
+            "best_bowling_figure": null,
+            "batting_average": 12.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 171.43,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        }
+    }
+}

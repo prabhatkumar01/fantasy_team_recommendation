@@ -1,0 +1,105 @@
+{
+    "player_id": "475281",
+    "player_name": "SN Thakur",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 15,
+            "total_wickets": 2,
+            "highest_score": 15,
+            "best_bowling_figure": "2/29",
+            "batting_average": 15.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": 18.0
+        },
+        "PBKS": {
+            "total_runs": 30,
+            "total_wickets": 3,
+            "highest_score": 22,
+            "best_bowling_figure": "2/30",
+            "batting_average": 15.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 120.0,
+            "bowling_strike_rate": 15.0
+        },
+        "LSG": {
+            "total_runs": 20,
+            "total_wickets": 1,
+            "highest_score": 20,
+            "best_bowling_figure": "1/25",
+            "batting_average": 20.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 133.33,
+            "bowling_strike_rate": 24.0
+        },
+        "DC": {
+            "total_runs": 25,
+            "total_wickets": 4,
+            "highest_score": 18,
+            "best_bowling_figure": "3/27",
+            "batting_average": 8.33,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 113.64,
+            "bowling_strike_rate": 12.0
+        },
+        "MI": {
+            "total_runs": 10,
+            "total_wickets": 0,
+            "highest_score": 10,
+            "best_bowling_figure": "0/35",
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs": 35,
+            "total_wickets": 5,
+            "highest_score": 25,
+            "best_bowling_figure": "3/30",
+            "batting_average": 11.67,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 125.0,
+            "bowling_strike_rate": 10.8
+        },
+        "SRH": {
+            "total_runs": 12,
+            "total_wickets": 2,
+            "highest_score": 12,
+            "best_bowling_figure": "2/28",
+            "batting_average": 12.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 92.31,
+            "bowling_strike_rate": 21.0
+        },
+        "KKR": {
+            "total_runs": 40,
+            "total_wickets": 6,
+            "highest_score": 30,
+            "best_bowling_figure": "4/29",
+            "batting_average": 13.33,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 142.86,
+            "bowling_strike_rate": 9.0
+        },
+        "RCB": {
+            "total_runs": 18,
+            "total_wickets": 1,
+            "highest_score": 18,
+            "best_bowling_figure": "1/27",
+            "batting_average": 18.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 105.88,
+            "bowling_strike_rate": 30.0
+        }
+    }
+}

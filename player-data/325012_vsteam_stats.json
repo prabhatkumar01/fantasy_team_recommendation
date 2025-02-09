@@ -1,0 +1,123 @@
+{
+    "player_id": 325012,
+    "player_name": "MP Stoinis",
+    "overall_performance": {
+        "GT": {
+            "opponent": "GT",
+            "matches_played": 4,
+            "runs_scored": 111,
+            "wickets_taken": 0,
+            "highest_score": 65,
+            "best_bowling_figure": "0/17",
+            "batting_average": 37.0,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 126.13,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "opponent": "PBKS",
+            "matches_played": 9,
+            "runs_scored": 235,
+            "wickets_taken": 3,
+            "highest_score": 72,
+            "best_bowling_figure": "2/14",
+            "batting_average": 29.38,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 4,
+            "batting_strike_rate": 127.71,
+            "bowling_strike_rate": 28.0
+        },
+        "DC": {
+            "opponent": "DC",
+            "matches_played": 10,
+            "runs_scored": 245,
+            "wickets_taken": 5,
+            "highest_score": 65,
+            "best_bowling_figure": "2/21",
+            "batting_average": 30.63,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 4,
+            "batting_strike_rate": 143.27,
+            "bowling_strike_rate": 19.2
+        },
+        "CSK": {
+            "opponent": "CSK",
+            "matches_played": 11,
+            "runs_scored": 217,
+            "wickets_taken": 3,
+            "highest_score": 63,
+            "best_bowling_figure": "1/18",
+            "batting_average": 24.11,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 3,
+            "batting_strike_rate": 131.52,
+            "bowling_strike_rate": 36.67
+        },
+        "MI": {
+            "opponent": "MI",
+            "matches_played": 10,
+            "runs_scored": 202,
+            "wickets_taken": 3,
+            "highest_score": 50,
+            "best_bowling_figure": "1/9",
+            "batting_average": 20.2,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 4,
+            "batting_strike_rate": 123.32,
+            "bowling_strike_rate": 30.0
+        },
+        "RR": {
+            "opponent": "RR",
+            "matches_played": 10,
+            "runs_scored": 319,
+            "wickets_taken": 3,
+            "highest_score": 124,
+            "best_bowling_figure": "1/10",
+            "batting_average": 45.57,
+            "teams_winning_batting_first": 4,
+            "teams_winning_batting_second": 4,
+            "batting_strike_rate": 148.37,
+            "bowling_strike_rate": 32.0
+        },
+        "SRH": {
+            "opponent": "SRH",
+            "matches_played": 11,
+            "runs_scored": 212,
+            "wickets_taken": 5,
+            "highest_score": 48,
+            "best_bowling_figure": "3/40",
+            "batting_average": 23.56,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 5,
+            "batting_strike_rate": 117.13,
+            "bowling_strike_rate": 19.2
+        },
+        "KKR": {
+            "opponent": "KKR",
+            "matches_played": 10,
+            "runs_scored": 207,
+            "wickets_taken": 6,
+            "highest_score": 72,
+            "best_bowling_figure": "2/31",
+            "batting_average": 25.88,
+            "teams_winning_batting_first": 4,
+            "teams_winning_batting_second": 3,
+            "batting_strike_rate": 126.22,
+            "bowling_strike_rate": 20.0
+        },
+        "RCB": {
+            "opponent": "RCB",
+            "matches_played": 11,
+            "runs_scored": 217,
+            "wickets_taken": 2,
+            "highest_score": 65,
+            "best_bowling_figure": "1/8",
+            "batting_average": 21.7,
+            "teams_winning_batting_first": 5,
+            "teams_winning_batting_second": 3,
+            "batting_strike_rate": 145.64,
+            "bowling_strike_rate": 36.0
+        }
+    }
+}

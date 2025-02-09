@@ -1,0 +1,105 @@
+{
+    "player_name": "Naman Dhir",
+    "player_id": 1287032,
+    "overall_performance": {
+        "GT": {
+            "total_runs": 18,
+            "total_wickets": 0,
+            "highest_score": 18,
+            "best_bowling_figure": null,
+            "batting_average": 18.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 163.636,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs": 20,
+            "total_wickets": 0,
+            "highest_score": 20,
+            "best_bowling_figure": null,
+            "batting_average": 20.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 153.846,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs": 26,
+            "total_wickets": 0,
+            "highest_score": 26,
+            "best_bowling_figure": null,
+            "batting_average": 26.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 136.842,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "total_runs": 20,
+            "total_wickets": 0,
+            "highest_score": 20,
+            "best_bowling_figure": null,
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 142.857,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "overall_performance": {
+        "GT": {
+            "opponent": "GT",
+            "player_id": "926851",
+            "total_runs": 12,
+            "total_wickets": 1,
+            "highest_score": 12,
+            "best_bowling_figure": "1/30",
+            "batting_average": 12.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": 24.0
+        },
+        "PBKS": {
+            "opponent": "PBKS",
+            "player_id": "926851",
+            "total_runs": 5,
+            "total_wickets": 2,
+            "highest_score": 5,
+            "best_bowling_figure": "2/35",
+            "batting_average": 5.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 71.43,
+            "bowling_strike_rate": 18.0
+        },
+        "LSG": {
+            "opponent": "LSG",
+            "player_id": "926851",
+            "total_runs": 3,
+            "total_wickets": 0,
+            "highest_score": 3,
+            "best_bowling_figure": null,
+            "batting_average": 3.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 50.0,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "opponent": "CSK",
+            "player_id": "926851",
+            "total_runs": 1,
+            "total_wickets": 1,
+            "highest_score": 1,
+            "best_bowling_figure": "1/27",
+            "batting_average": 1.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 25.0,
+            "bowling_strike_rate": 24.0
+        },
+        "MI": {
+            "opponent": "MI",
+            "player_id": "926851",
+            "total_runs": 7,
+            "total_wickets": 2,
+            "highest_score": 7,
+            "best_bowling_figure": "2/27",
+            "batting_average": 7.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 87.5,
+            "bowling_strike_rate": 15.0
+        },
+        "RR": {
+            "opponent": "RR",
+            "player_id": "926851",
+            "total_runs": 4,
+            "total_wickets": 1,
+            "highest_score": 4,
+            "best_bowling_figure": "1/41",
+            "batting_average": 4.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 66.67,
+            "bowling_strike_rate": 24.0
+        },
+        "SRH": {
+            "opponent": "SRH",
+            "player_id": "926851",
+            "total_runs": 2,
+            "total_wickets": 0,
+            "highest_score": 2,
+            "best_bowling_figure": null,
+            "batting_average": 2.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 40.0,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "opponent": "KKR",
+            "player_id": "926851",
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "opponent": "RCB",
+            "player_id": "926851",
+            "total_runs": 6,
+            "total_wickets": 1,
+            "highest_score": 6,
+            "best_bowling_figure": "1/42",
+            "batting_average": 6.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": 30.0
+        }
+    }
+}

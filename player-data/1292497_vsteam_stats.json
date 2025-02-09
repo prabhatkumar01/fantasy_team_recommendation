@@ -1,0 +1,105 @@
+{
+    "player_id": 1292497,
+    "player_name": "SK Rasheed",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0-0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "PBKS": {
+            "total_runs": 3,
+            "total_wickets": 0,
+            "highest_score": 3,
+            "best_bowling_figure": "0-0",
+            "batting_average": 3,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 60,
+            "bowling_strike_rate": 0
+        },
+        "LSG": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0-0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "DC": {
+            "total_runs": 22,
+            "total_wickets": 0,
+            "highest_score": 22,
+            "best_bowling_figure": "0-0",
+            "batting_average": 22,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 100,
+            "bowling_strike_rate": 0
+        },
+        "MI": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0-0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "RR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0-0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "SRH": {
+            "total_runs": 31,
+            "total_wickets": 0,
+            "highest_score": 31,
+            "best_bowling_figure": "0-0",
+            "batting_average": 31,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 100,
+            "bowling_strike_rate": 0
+        },
+        "KKR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0-0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "RCB": {
+            "total_runs": 9,
+            "total_wickets": 0,
+            "highest_score": 9,
+            "best_bowling_figure": "0-0",
+            "batting_average": 9,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 75,
+            "bowling_strike_rate": 0
+        }
+    }
+}

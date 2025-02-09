@@ -1,0 +1,126 @@
+{
+    "player_id": 777815,
+    "player_name": "V Vyshak",
+    "overall_performance": {
+        "GT": {
+            "matches_played": 1,
+            "runs_scored": 0,
+            "wickets_taken": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "3/24",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "PBKS": {
+            "matches_played": 1,
+            "runs_scored": 0,
+            "wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "matches_played": 1,
+            "runs_scored": 0,
+            "wickets_taken": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/41",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "DC": {
+            "matches_played": 1,
+            "runs_scored": 0,
+            "wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "matches_played": 1,
+            "runs_scored": 0,
+            "wickets_taken": 3,
+            "highest_score": 0,
+            "best_bowling_figure": "3/23",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 8.66
+        },
+        "MI": {
+            "matches_played": 1,
+            "runs_scored": 0,
+            "wickets_taken": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/37",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "RR": {
+            "matches_played": 1,
+            "runs_scored": 0,
+            "wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "matches_played": 0,
+            "runs_scored": 0,
+            "wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "matches_played": 0,
+            "runs_scored": 0,
+            "wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        }
+    },
+    "total": {
+        "matches_played": 6,
+        "runs_scored": 0,
+        "wickets_taken": 6,
+        "highest_score": 0,
+        "best_bowling_figure": "3/23",
+        "batting_average": 0.0,
+        "teams_winning_batting_first": 0,
+        "teams_winning_batting_second": 0,
+        "batting_strike_rate": 0.0,
+        "bowling_strike_rate": 18.0
+    }
+}

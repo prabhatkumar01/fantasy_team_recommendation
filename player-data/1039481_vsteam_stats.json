@@ -1,0 +1,105 @@
+{
+    "player_id": 1039481,
+    "player_name": "AAP Atkinson",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": 52,
+            "total_wickets_taken": 0,
+            "highest_score": 31,
+            "best_bowling_figure": "-",
+            "batting_average": 26.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 123.81,
+            "bowling_strike_rate": "-"
+        },
+        "PBKS": {
+            "total_runs_scored": 87,
+            "total_wickets_taken": 1,
+            "highest_score": 45,
+            "best_bowling_figure": "1/28",
+            "batting_average": 43.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 130.6,
+            "bowling_strike_rate": 24.0
+        },
+        "LSG": {
+            "total_runs_scored": 112,
+            "total_wickets_taken": 2,
+            "highest_score": 58,
+            "best_bowling_figure": "2/35",
+            "batting_average": 56.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 136.59,
+            "bowling_strike_rate": 18.0
+        },
+        "DC": {
+            "total_runs_scored": 43,
+            "total_wickets_taken": 0,
+            "highest_score": 22,
+            "best_bowling_figure": "-",
+            "batting_average": 21.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 110.26,
+            "bowling_strike_rate": "-"
+        },
+        "CSK": {
+            "total_runs_scored": 95,
+            "total_wickets_taken": 1,
+            "highest_score": 48,
+            "best_bowling_figure": "1/32",
+            "batting_average": 47.5,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 126.67,
+            "bowling_strike_rate": 30.0
+        },
+        "MI": {
+            "total_runs_scored": 78,
+            "total_wickets_taken": 2,
+            "highest_score": 40,
+            "best_bowling_figure": "2/29",
+            "batting_average": 39.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 121.88,
+            "bowling_strike_rate": 15.0
+        },
+        "RR": {
+            "total_runs_scored": 61,
+            "total_wickets_taken": 0,
+            "highest_score": 33,
+            "best_bowling_figure": "-",
+            "batting_average": 30.5,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 115.09,
+            "bowling_strike_rate": "-"
+        },
+        "SRH": {
+            "total_runs_scored": 103,
+            "total_wickets_taken": 3,
+            "highest_score": 52,
+            "best_bowling_figure": "3/25",
+            "batting_average": 51.5,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 141.1,
+            "bowling_strike_rate": 12.0
+        },
+        "RCB": {
+            "total_runs_scored": 35,
+            "total_wickets_taken": 1,
+            "highest_score": 18,
+            "best_bowling_figure": "1/36",
+            "batting_average": 17.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 102.94,
+            "bowling_strike_rate": 28.0
+        }
+    }
+}

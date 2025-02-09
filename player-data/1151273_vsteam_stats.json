@@ -1,0 +1,105 @@
+{
+    "player_id": 1151273,
+    "player_name": "N Wadhera",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": null,
+            "total_wickets_taken": null,
+            "highest_score": null,
+            "best_bowling_figure": null,
+            "batting_average": null,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": null,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs_scored": 26,
+            "total_wickets_taken": 0,
+            "highest_score": 26,
+            "best_bowling_figure": "0/0",
+            "batting_average": 26.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 144.44,
+            "bowling_strike_rate": 0.0
+        },
+        "LSG": {
+            "total_runs_scored": 16,
+            "total_wickets_taken": 0,
+            "highest_score": 16,
+            "best_bowling_figure": "0/0",
+            "batting_average": 16.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": 0.0
+        },
+        "DC": {
+            "total_runs_scored": 3,
+            "total_wickets_taken": 0,
+            "highest_score": 3,
+            "best_bowling_figure": "0/0",
+            "batting_average": 3.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 37.5,
+            "bowling_strike_rate": 0.0
+        },
+        "CSK": {
+            "total_runs_scored": 1,
+            "total_wickets_taken": null,
+            "highest_score": 1,
+            "best_bowling_figure": null,
+            "batting_average": 1.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs_scored": 4,
+            "total_wickets_taken": null,
+            "highest_score": 4,
+            "best_bowling_figure": null,
+            "batting_average": 4.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 80.0,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "total_runs_scored": 21,
+            "total_wickets_taken": 0,
+            "highest_score": 21,
+            "best_bowling_figure": "0/0",
+            "batting_average": 21.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 161.54,
+            "bowling_strike_rate": 0.0
+        },
+        "KKR": {
+            "total_runs_scored": 12,
+            "total_wickets_taken": 0,
+            "highest_score": 12,
+            "best_bowling_figure": "0/0",
+            "batting_average": 12.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 92.31,
+            "bowling_strike_rate": 0.0
+        },
+        "RCB": {
+            "total_runs_scored": 40,
+            "total_wickets_taken": 0,
+            "highest_score": 40,
+            "best_bowling_figure": "0/0",
+            "batting_average": 40.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 137.93,
+            "bowling_strike_rate": 0.0
+        }
+    }
+}

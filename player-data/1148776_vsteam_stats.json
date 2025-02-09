@@ -1,0 +1,114 @@
+{
+    "player_id": 1148776,
+    "player_name": "AS Tendulkar",
+    "overall_performance": [
+        {
+            "team": "GT",
+            "total_runs": null,
+            "total_wickets": null,
+            "highest_score": null,
+            "best_bowling_figure": null,
+            "batting_average": null,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": null,
+            "bowling_strike_rate": null
+        },
+        {
+            "team": "PBKS",
+            "total_runs": 199,
+            "total_wickets": 0,
+            "highest_score": 73,
+            "best_bowling_figure": "0/0",
+            "batting_average": 33.17,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 140.0,
+            "bowling_strike_rate": null
+        },
+        {
+            "team": "LSG",
+            "total_runs": null,
+            "total_wickets": null,
+            "highest_score": null,
+            "best_bowling_figure": null,
+            "batting_average": null,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": null,
+            "bowling_strike_rate": null
+        },
+        {
+            "team": "DC",
+            "total_runs": 660,
+            "total_wickets": 2,
+            "highest_score": 113,
+            "best_bowling_figure": "1/14",
+            "batting_average": 44.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 125.14,
+            "bowling_strike_rate": 42.0
+        },
+        {
+            "team": "CSK",
+            "total_runs": 747,
+            "total_wickets": 0,
+            "highest_score": 103,
+            "best_bowling_figure": "0/12",
+            "batting_average": 41.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 126.5,
+            "bowling_strike_rate": null
+        },
+        {
+            "team": "RR",
+            "total_runs": 601,
+            "total_wickets": 2,
+            "highest_score": 100,
+            "best_bowling_figure": "1/18",
+            "batting_average": 35.35,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 123.9,
+            "bowling_strike_rate": 24.0
+        },
+        {
+            "team": "SRH",
+            "total_runs": 540,
+            "total_wickets": 0,
+            "highest_score": 91,
+            "best_bowling_figure": "0/4",
+            "batting_average": 45.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 117.14,
+            "bowling_strike_rate": null
+        },
+        {
+            "team": "KKR",
+            "total_runs": 686,
+            "total_wickets": 0,
+            "highest_score": 84,
+            "best_bowling_figure": "0/3",
+            "batting_average": 40.35,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 123.83,
+            "bowling_strike_rate": null
+        },
+        {
+            "team": "RCB",
+            "total_runs": 790,
+            "total_wickets": 0,
+            "highest_score": 94,
+            "best_bowling_figure": "0/13",
+            "batting_average": 44.13,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 119.0,
+            "bowling_strike_rate": null
+        }
+    ]
+}

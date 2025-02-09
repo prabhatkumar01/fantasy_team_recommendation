@@ -1,0 +1,105 @@
+{
+    "player_id": 219889,
+    "player_name": "DA Warner",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": 194,
+            "total_wickets_taken": 0,
+            "highest_score": 70,
+            "best_bowling_figure": null,
+            "batting_average": 38.8,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 128.47,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs_scored": 1005,
+            "total_wickets_taken": 0,
+            "highest_score": 81,
+            "best_bowling_figure": null,
+            "batting_average": 47.85,
+            "teams_winning_batting_first": 5,
+            "teams_winning_batting_second": 6,
+            "batting_strike_rate": 148.96,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs_scored": 204,
+            "total_wickets_taken": 0,
+            "highest_score": 56,
+            "best_bowling_figure": null,
+            "batting_average": 34.0,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 136.8,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs_scored": 626,
+            "total_wickets_taken": 0,
+            "highest_score": 90,
+            "best_bowling_figure": null,
+            "batting_average": 36.82,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 5,
+            "batting_strike_rate": 139.42,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs_scored": 594,
+            "total_wickets_taken": 0,
+            "highest_score": 90,
+            "best_bowling_figure": null,
+            "batting_average": 33.0,
+            "teams_winning_batting_first": 4,
+            "teams_winning_batting_second": 6,
+            "batting_strike_rate": 142.95,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs_scored": 616,
+            "total_wickets_taken": 0,
+            "highest_score": 77,
+            "best_bowling_figure": null,
+            "batting_average": 44.0,
+            "teams_winning_batting_first": 4,
+            "teams_winning_batting_second": 4,
+            "batting_strike_rate": 146.31,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "total_runs_scored": 571,
+            "total_wickets_taken": 0,
+            "highest_score": 91,
+            "best_bowling_figure": null,
+            "batting_average": 35.69,
+            "teams_winning_batting_first": 5,
+            "teams_winning_batting_second": 4,
+            "batting_strike_rate": 147.16,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs_scored": 1075,
+            "total_wickets_taken": 0,
+            "highest_score": 93,
+            "best_bowling_figure": null,
+            "batting_average": 46.73,
+            "teams_winning_batting_first": 6,
+            "teams_winning_batting_second": 8,
+            "batting_strike_rate": 141.41,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs_scored": 640,
+            "total_wickets_taken": 0,
+            "highest_score": 92,
+            "best_bowling_figure": null,
+            "batting_average": 37.64,
+            "teams_winning_batting_first": 4,
+            "teams_winning_batting_second": 6,
+            "batting_strike_rate": 149.53,
+            "bowling_strike_rate": null
+        }
+    }
+}

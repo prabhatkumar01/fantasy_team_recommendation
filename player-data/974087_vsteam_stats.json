@@ -1,0 +1,105 @@
+{
+    "player_id": 974087,
+    "player_name": "Rahmanullah Gurbaz",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": null,
+            "total_wickets_taken": null,
+            "highest_score": null,
+            "best_bowling_figure": null,
+            "batting_average": null,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": null,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs_scored": 39,
+            "total_wickets_taken": null,
+            "highest_score": 39,
+            "best_bowling_figure": null,
+            "batting_average": 39.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs_scored": null,
+            "total_wickets_taken": null,
+            "highest_score": null,
+            "best_bowling_figure": null,
+            "batting_average": null,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": null,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": null,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs_scored": 42,
+            "total_wickets_taken": null,
+            "highest_score": 42,
+            "best_bowling_figure": null,
+            "batting_average": 42.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 175.0,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs_scored": 8,
+            "total_wickets_taken": null,
+            "highest_score": 8,
+            "best_bowling_figure": null,
+            "batting_average": 8.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs_scored": 18,
+            "total_wickets_taken": null,
+            "highest_score": 18,
+            "best_bowling_figure": null,
+            "batting_average": 9.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": null,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs_scored": 81,
+            "total_wickets_taken": null,
+            "highest_score": 81,
+            "best_bowling_figure": null,
+            "batting_average": 81.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 197.56,
+            "bowling_strike_rate": null
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "player_name": "Anmolpreet Singh",
+    "player_id": "851261",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 35,
+            "total_wickets": 0,
+            "highest_score": 35,
+            "best_bowling_figure": null,
+            "batting_average": 35.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 125.0,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs": 10,
+            "total_wickets": 0,
+            "highest_score": 10,
+            "best_bowling_figure": null,
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 111.11,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs": 36,
+            "total_wickets": 0,
+            "highest_score": 36,
+            "best_bowling_figure": null,
+            "batting_average": 36.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 163.63,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs": 16,
+            "total_wickets": 0,
+            "highest_score": 16,
+            "best_bowling_figure": null,
+            "batting_average": 16.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 114.28,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs": 29,
+            "total_wickets": 0,
+            "highest_score": 29,
+            "best_bowling_figure": null,
+            "batting_average": 29.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 126.08,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs": 5,
+            "total_wickets": 0,
+            "highest_score": 5,
+            "best_bowling_figure": null,
+            "batting_average": 5.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 50.0,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs": 8,
+            "total_wickets": 0,
+            "highest_score": 8,
+            "best_bowling_figure": null,
+            "batting_average": 8.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 72.72,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs": 16,
+            "total_wickets": 0,
+            "highest_score": 16,
+            "best_bowling_figure": null,
+            "batting_average": 16.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 114.28,
+            "bowling_strike_rate": null
+        }
+    }
+}

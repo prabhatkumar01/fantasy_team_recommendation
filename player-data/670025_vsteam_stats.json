@@ -1,0 +1,123 @@
+{
+    "player_id": 670025,
+    "player_name": "SO Hetmyer",
+    "overall_performance": {
+        "GT": {
+            "matches_played": 3,
+            "total_runs": 92,
+            "highest_score": 56,
+            "batting_average": 30.67,
+            "batting_strike_rate": 150.82,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "total_wickets": 0,
+            "best_bowling_figure": "0/0",
+            "bowling_average": null,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "matches_played": 6,
+            "total_runs": 159,
+            "highest_score": 40,
+            "batting_average": 26.5,
+            "batting_strike_rate": 164.95,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 3,
+            "total_wickets": 0,
+            "best_bowling_figure": "0/0",
+            "bowling_average": null,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "matches_played": 2,
+            "total_runs": 65,
+            "highest_score": 59,
+            "batting_average": 65,
+            "batting_strike_rate": 162.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "total_wickets": 0,
+            "best_bowling_figure": "0/0",
+            "bowling_average": null,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "matches_played": 7,
+            "total_runs": 134,
+            "highest_score": 32,
+            "batting_average": 19.14,
+            "batting_strike_rate": 144.09,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 2,
+            "total_wickets": 0,
+            "best_bowling_figure": "0/0",
+            "bowling_average": null,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "matches_played": 7,
+            "total_runs": 196,
+            "highest_score": 52,
+            "batting_average": 28,
+            "batting_strike_rate": 152.86,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 3,
+            "total_wickets": 0,
+            "best_bowling_figure": "0/0",
+            "bowling_average": null,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "matches_played": 7,
+            "total_runs": 162,
+            "highest_score": 54,
+            "batting_average": 23.14,
+            "batting_strike_rate": 148.62,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 1,
+            "total_wickets": 0,
+            "best_bowling_figure": "0/0",
+            "bowling_average": null,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "matches_played": 7,
+            "total_runs": 200,
+            "highest_score": 75,
+            "batting_average": 33.33,
+            "batting_strike_rate": 166.67,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 2,
+            "total_wickets": 0,
+            "best_bowling_figure": "0/0",
+            "bowling_average": null,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "matches_played": 8,
+            "total_runs": 133,
+            "highest_score": 39,
+            "batting_average": 19,
+            "batting_strike_rate": 146.15,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 3,
+            "total_wickets": 0,
+            "best_bowling_figure": "0/0",
+            "bowling_average": null,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "matches_played": 11,
+            "total_runs": 267,
+            "highest_score": 85,
+            "batting_average": 38.14,
+            "batting_strike_rate": 160.84,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 4,
+            "total_wickets": 0,
+            "best_bowling_figure": "0/0",
+            "bowling_average": null,
+            "bowling_strike_rate": null
+        }
+    }
+}

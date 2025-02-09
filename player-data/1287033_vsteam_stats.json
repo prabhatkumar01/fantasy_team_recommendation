@@ -1,0 +1,105 @@
+{
+    "player_id": 1287033,
+    "player_name": "Gurnoor Brar",
+    "overall_performance": {
+        "PBKS": {
+            "total_runs_scored": 14,
+            "total_wickets_taken": 0,
+            "highest_score": 14,
+            "best_bowling_figure": "-",
+            "batting_average": 14.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": "-"
+        },
+        "LSG": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        },
+        "DC": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        },
+        "CSK": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        },
+        "MI": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        },
+        "RR": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        },
+        "SRH": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        },
+        "KKR": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        },
+        "RCB": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        }
+    }
+}

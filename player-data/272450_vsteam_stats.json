@@ -1,0 +1,105 @@
+{
+    "player_name": "MR Marsh",
+    "player_id": 272450,
+    "overall_performance": {
+        "GT": {
+            "total_runs": 63,
+            "total_wickets": 1,
+            "highest_score": 63,
+            "best_bowling_figure": "1/24",
+            "batting_average": 63.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": 24.0
+        },
+        "PBKS": {
+            "total_runs": 10,
+            "total_wickets": 0,
+            "highest_score": 10,
+            "best_bowling_figure": null,
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 83.33,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs": 37,
+            "total_wickets": 0,
+            "highest_score": 37,
+            "best_bowling_figure": null,
+            "batting_average": 37.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 115.63,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs": 5,
+            "total_wickets": 0,
+            "highest_score": 5,
+            "best_bowling_figure": null,
+            "batting_average": 5.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 71.43,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs": 63,
+            "total_wickets": 1,
+            "highest_score": 63,
+            "best_bowling_figure": "1/25",
+            "batting_average": 63.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 143.18,
+            "bowling_strike_rate": 18.0
+        },
+        "RR": {
+            "total_runs": 181,
+            "total_wickets": 1,
+            "highest_score": 89,
+            "best_bowling_figure": "1/19",
+            "batting_average": 45.25,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 137.12,
+            "bowling_strike_rate": 30.0
+        },
+        "SRH": {
+            "total_runs": 120,
+            "total_wickets": 1,
+            "highest_score": 67,
+            "best_bowling_figure": "1/29",
+            "batting_average": 40.0,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 142.86,
+            "bowling_strike_rate": 24.0
+        },
+        "KKR": {
+            "total_runs": 121,
+            "total_wickets": 2,
+            "highest_score": 66,
+            "best_bowling_figure": "2/18",
+            "batting_average": 30.25,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 131.52,
+            "bowling_strike_rate": 13.5
+        },
+        "RCB": {
+            "total_runs": 128,
+            "total_wickets": 0,
+            "highest_score": 92,
+            "best_bowling_figure": null,
+            "batting_average": 42.67,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 180.28,
+            "bowling_strike_rate": null
+        }
+    }
+}

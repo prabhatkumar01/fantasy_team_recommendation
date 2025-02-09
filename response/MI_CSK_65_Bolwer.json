@@ -1,0 +1,114 @@
+{
+    "data": {
+        "captain": {
+            "name": "JJ Bumrah",
+            "player_id": 625383,
+            "reason": "Bumrah is likely to excel on this pitch and take crucial wickets. Considering the bowling-heavy strategy, making him captain is a strategic choice."
+        },
+        "fantasy_team": [
+            {
+                "credit": 8,
+                "name": "JJ Bumrah",
+                "player_id": 625383,
+                "reason": "Bumrah is a premier bowler with a low economy and high wicket-taking ability. His consistent performance makes him a strong pick for the Wankhede pitch.",
+                "role": "Bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 6,
+                "name": "Mustafizur Rahman",
+                "player_id": 330902,
+                "reason": "Experienced bowler with a proven track record of taking wickets. His variations can be effective on this pitch, and he's a good value pick at 6 credits.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 6,
+                "name": "M Pathirana",
+                "player_id": 1194795,
+                "reason": "Has impressed with his wicket-taking abilities and unique action. His low credit cost allows for better allocation of credits to other key players.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "S Dube",
+                "player_id": 714451,
+                "reason": "Dube provides both batting and bowling options.  His aggressive batting style suits the Wankhede pitch and he can contribute with crucial wickets.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "HH Pandya",
+                "player_id": 625371,
+                "reason": "Hardik Pandya is a key all-rounder for MI, capable of scoring quick runs and taking wickets. His experience and aggressive approach make him a valuable asset.",
+                "role": "Allrounder",
+                "team": "MI"
+            },
+            {
+                "credit": 9,
+                "name": "R Ravindra",
+                "player_id": 959767,
+                "reason": "Ravindra offers a good balance of batting and bowling skills and is more of a batting allrounder and adds more value with Batting in the top order.",
+                "role": "Batting Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "AM Rahane",
+                "player_id": 277916,
+                "reason": "Rahane is an experienced batter with the ability to score runs consistently. His technique and temperament make him a reliable choice.",
+                "role": "Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "RD Gaikwad",
+                "player_id": 1060380,
+                "reason": "Gaikwad is a promising top-order batter with a good average. His ability to score quickly makes him a valuable asset, especially on a batting-friendly pitch.",
+                "role": "Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 7,
+                "name": "D Madushanka",
+                "player_id": 793007,
+                "reason": "Madushanka is picked for his potential to take wickets. He provides a valuable bowling option at a reasonable credit cost. His recent performances show promise.",
+                "role": "Bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 8,
+                "name": "Ishan Kishan",
+                "player_id": 720471,
+                "reason": "Ishan Kishan is a dynamic wicketkeeper-batsman, known for his aggressive batting style. He adds value both behind the stumps and as a top-order hitter.",
+                "role": "Wicketkeeper Batter",
+                "team": "MI"
+            },
+            {
+                "credit": 9,
+                "name": "MS Dhoni",
+                "player_id": 28081,
+                "reason": "Dhoni's experience and finishing abilities make him a valuable asset. His leadership and wicket-keeping skills further strengthen the team. ",
+                "role": "Wicketkeeper Batter",
+                "team": "CSK"
+            }
+        ],
+        "team_balance": {
+            "CSK": 6,
+            "MI": 5
+        },
+        "total_credit_used": 98,
+        "validation": {
+            "credit_usage_valid": true,
+            "roles_valid": true,
+            "team_balance_valid": true
+        },
+        "vice_captain": {
+            "name": "RD Gaikwad",
+            "player_id": 1060380,
+            "reason": "Gaikwad's consistent performances at the top of the order and high average make him a suitable candidate for vice-captain."
+        }
+    }
+}

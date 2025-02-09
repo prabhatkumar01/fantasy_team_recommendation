@@ -1,0 +1,105 @@
+{
+    "player_id": 851403,
+    "player_name": "VR Iyer",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 86,
+            "total_wickets": 0,
+            "highest_score": 67,
+            "best_bowling_figure": "0/0",
+            "batting_average": 43.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 122.86,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs": 135,
+            "total_wickets": 2,
+            "highest_score": 78,
+            "best_bowling_figure": "1/9",
+            "batting_average": 45.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": 36.0
+        },
+        "LSG": {
+            "total_runs": 140,
+            "total_wickets": 0,
+            "highest_score": 66,
+            "best_bowling_figure": "0/12",
+            "batting_average": 46.67,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 138.61,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs": 35,
+            "total_wickets": 0,
+            "highest_score": 18,
+            "best_bowling_figure": "0/0",
+            "batting_average": 11.67,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 81.4,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs": 21,
+            "total_wickets": 2,
+            "highest_score": 14,
+            "best_bowling_figure": "2/20",
+            "batting_average": 7.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 91.3,
+            "bowling_strike_rate": 12.0
+        },
+        "MI": {
+            "total_runs": 103,
+            "total_wickets": 1,
+            "highest_score": 51,
+            "best_bowling_figure": "1/4",
+            "batting_average": 25.75,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 137.33,
+            "bowling_strike_rate": 60.0
+        },
+        "RR": {
+            "total_runs": 73,
+            "total_wickets": 1,
+            "highest_score": 55,
+            "best_bowling_figure": "1/22",
+            "batting_average": 36.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 117.74,
+            "bowling_strike_rate": 24.0
+        },
+        "SRH": {
+            "total_runs": 13,
+            "total_wickets": 0,
+            "highest_score": 13,
+            "best_bowling_figure": "0/0",
+            "batting_average": 13.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs": 122,
+            "total_wickets": 1,
+            "highest_score": 52,
+            "best_bowling_figure": "1/26",
+            "batting_average": 30.5,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 131.18,
+            "bowling_strike_rate": 24.0
+        }
+    }
+}

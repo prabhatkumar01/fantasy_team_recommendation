@@ -1,0 +1,114 @@
+{
+    "data": {
+        "captain": {
+            "name": "JJ Bumrah",
+            "player_id": 625383,
+            "reason": "Bumrah's consistent wicket-taking ability and economy rate make him a high-impact captaincy choice."
+        },
+        "fantasy_team": [
+            {
+                "credit": 8,
+                "name": "JJ Bumrah",
+                "player_id": 625383,
+                "reason": "Bumrah is a strike bowler with a good economy and strike rate, crucial for taking wickets.",
+                "role": "Bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 6,
+                "name": "Mustafizur Rahman",
+                "player_id": 330902,
+                "reason": "Rahman's ability to take multiple wickets (3 five-wicket hauls) makes him a high-value pick at a low credit cost.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "SN Thakur",
+                "player_id": 475281,
+                "reason": "Thakur is a good bowler with a knack for picking up wickets, contributing to both bowling and batting points.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "M Theekshana",
+                "player_id": 1138316,
+                "reason": "Theekshana's economical bowling and wicket-taking ability provide consistent points.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 6,
+                "name": "M Pathirana",
+                "player_id": 1194795,
+                "reason": "Pathirana is a wicket-taker with an excellent bowling strike rate.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "S Dube",
+                "player_id": 714451,
+                "reason": "Dube contributes with both bat and ball, providing a good balance of points.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "RA Jadeja",
+                "player_id": 234675,
+                "reason": "Jadeja is a valuable all-rounder with consistent performance in both batting and bowling.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "R Shepherd",
+                "player_id": 677077,
+                "reason": "Shepherd is a bowling all-rounder who can contribute with wickets and some lower-order hitting.",
+                "role": "Bowling Allrounder",
+                "team": "MI"
+            },
+            {
+                "credit": 8,
+                "name": "Ishan Kishan",
+                "player_id": 720471,
+                "reason": "Kishan is a aggressive opening batsman, good for scoring runs and also contributes with keeping.",
+                "role": "Wicketkeeper Batter",
+                "team": "MI"
+            },
+            {
+                "credit": 9,
+                "name": "MS Dhoni",
+                "player_id": 28081,
+                "reason": "Dhoni's experience and potential for quick runs in the death overs and good keeping abilities makes him a valuable asset. ",
+                "role": "Wicketkeeper Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 7,
+                "name": "DP Conway",
+                "player_id": 379140,
+                "reason": "Conway is a reliable top-order batter with a good average, essential for consistent scoring.",
+                "role": "Wicketkeeper Batter",
+                "team": "CSK"
+            }
+        ],
+        "team_balance": {
+            "CSK": 7,
+            "MI": 4
+        },
+        "total_credit_used": 94,
+        "validation": {
+            "credit_usage_valid": true,
+            "roles_valid": true,
+            "team_balance_valid": true
+        },
+        "vice_captain": {
+            "name": "RA Jadeja",
+            "player_id": 234675,
+            "reason": "Jadeja's all-round skills offer balanced contribution and consistent points as vice-captain."
+        }
+    }
+}

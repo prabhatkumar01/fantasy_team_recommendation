@@ -1,0 +1,122 @@
+{
+    "player_id": 28081,
+    "overall_performance": {
+        "GT": {
+            "opponent": "GT",
+            "player_id": 28081,
+            "total_runs": 74,
+            "total_wickets": 0,
+            "highest_score": 37,
+            "best_bowling_figure": null,
+            "batting_average": 37.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 127.58,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "opponent": "PBKS",
+            "player_id": 28081,
+            "total_runs": 406,
+            "total_wickets": 0,
+            "highest_score": 64,
+            "best_bowling_figure": null,
+            "batting_average": 36.91,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 133.11,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "opponent": "LSG",
+            "player_id": 28081,
+            "total_runs": 131,
+            "total_wickets": 0,
+            "highest_score": 28,
+            "best_bowling_figure": null,
+            "batting_average": 65.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 122.42,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "opponent": "DC",
+            "player_id": 28081,
+            "total_runs": 671,
+            "total_wickets": 0,
+            "highest_score": 70,
+            "best_bowling_figure": null,
+            "batting_average": 44.73,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 135.92,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "opponent": "MI",
+            "player_id": 28081,
+            "total_runs": 703,
+            "total_wickets": 0,
+            "highest_score": 69,
+            "best_bowling_figure": null,
+            "batting_average": 41.35,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 135.12,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "opponent": "RR",
+            "player_id": 28081,
+            "total_runs": 568,
+            "total_wickets": 0,
+            "highest_score": 75,
+            "best_bowling_figure": null,
+            "batting_average": 35.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 135.89,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "opponent": "SRH",
+            "player_id": 28081,
+            "total_runs": 503,
+            "total_wickets": 0,
+            "highest_score": 67,
+            "best_bowling_figure": null,
+            "batting_average": 35.92,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 134.57,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "opponent": "KKR",
+            "player_id": 28081,
+            "total_runs": 721,
+            "total_wickets": 0,
+            "highest_score": 66,
+            "best_bowling_figure": null,
+            "batting_average": 40.06,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 131.75,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "opponent": "RCB",
+            "player_id": 28081,
+            "total_runs": 835,
+            "total_wickets": 0,
+            "highest_score": 84,
+            "best_bowling_figure": null,
+            "batting_average": 46.39,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 140.91,
+            "bowling_strike_rate": null
+        }
+    }
+}

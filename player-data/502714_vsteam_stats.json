@@ -1,0 +1,105 @@
+{
+    "player_id": 502714,
+    "player_name": "MJ Santner",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": 10,
+            "total_wickets_taken": 2,
+            "highest_score": 10,
+            "best_bowling_figure": "2/20",
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 125.0,
+            "bowling_strike_rate": 18.0
+        },
+        "PBKS": {
+            "total_runs_scored": 5,
+            "total_wickets_taken": 1,
+            "highest_score": 5,
+            "best_bowling_figure": "1/25",
+            "batting_average": 5.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": 24.0
+        },
+        "LSG": {
+            "total_runs_scored": 15,
+            "total_wickets_taken": 3,
+            "highest_score": 15,
+            "best_bowling_figure": "3/15",
+            "batting_average": 15.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": 12.0
+        },
+        "DC": {
+            "total_runs_scored": 20,
+            "total_wickets_taken": 4,
+            "highest_score": 20,
+            "best_bowling_figure": "2/10",
+            "batting_average": 20.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 133.33,
+            "bowling_strike_rate": 15.0
+        },
+        "MI": {
+            "total_runs_scored": 8,
+            "total_wickets_taken": 1,
+            "highest_score": 8,
+            "best_bowling_figure": "1/30",
+            "batting_average": 8.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 114.29,
+            "bowling_strike_rate": 30.0
+        },
+        "RR": {
+            "total_runs_scored": 12,
+            "total_wickets_taken": 2,
+            "highest_score": 12,
+            "best_bowling_figure": "2/22",
+            "batting_average": 12.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 120.0,
+            "bowling_strike_rate": 21.0
+        },
+        "SRH": {
+            "total_runs_scored": 25,
+            "total_wickets_taken": 5,
+            "highest_score": 25,
+            "best_bowling_figure": "3/18",
+            "batting_average": 25.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 166.67,
+            "bowling_strike_rate": 10.0
+        },
+        "KKR": {
+            "total_runs_scored": 18,
+            "total_wickets_taken": 3,
+            "highest_score": 18,
+            "best_bowling_figure": "2/15",
+            "batting_average": 18.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 128.57,
+            "bowling_strike_rate": 16.0
+        },
+        "RCB": {
+            "total_runs_scored": 14,
+            "total_wickets_taken": 2,
+            "highest_score": 14,
+            "best_bowling_figure": "1/12",
+            "batting_average": 14.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 130.0,
+            "bowling_strike_rate": 20.0
+        }
+    }
+}

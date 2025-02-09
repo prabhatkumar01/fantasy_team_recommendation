@@ -1,0 +1,114 @@
+{
+    "data": {
+        "captain": {
+            "name": "HH Pandya",
+            "player_id": 625371,
+            "reason": "Likely to contribute heavily with both bat and ball, given his all-round skills and the ground dynamics."
+        },
+        "fantasy_team": [
+            {
+                "credit": 8,
+                "name": "HH Pandya",
+                "player_id": 625371,
+                "reason": "Valuable all-rounder with high potential for runs and wickets, especially considering the ground stats.",
+                "role": "Allrounder",
+                "team": "MI"
+            },
+            {
+                "credit": 6,
+                "name": "Mustafizur Rahman",
+                "player_id": 330902,
+                "reason": "Experienced bowler, good economy, with multiple 5-wicket hauls, offering high wicket-taking potential.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "JJ Bumrah",
+                "player_id": 625383,
+                "reason": "Key MI bowler, known for his accuracy and wicket-taking abilities.  His economy is excellent.",
+                "role": "Bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 9,
+                "name": "RD Gaikwad",
+                "player_id": 1060380,
+                "reason": "Top-order batter for CSK with a solid average, making him a reliable choice for runs.",
+                "role": "Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 6,
+                "name": "DL Chahar",
+                "player_id": 447261,
+                "reason": "Important bowler for CSK. His average is high, giving him a higher chance of winning points.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "AM Rahane",
+                "player_id": 277916,
+                "reason": "Experienced batter with good potential to score runs. His batting skills fit well with the current ground.",
+                "role": "Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "MS Dhoni",
+                "player_id": 28081,
+                "reason": "Experienced wicketkeeper batter. High chance of getting stumping and catching points. Also, a reliable choice for runs.",
+                "role": "Wicketkeeper Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 7,
+                "name": "Vishnu Vinod",
+                "player_id": 732293,
+                "reason": "Value pick wicketkeeper batter. His batting skills can prove to be valuable at current pitch.",
+                "role": "Wicketkeeper Batter",
+                "team": "MI"
+            },
+            {
+                "credit": 8,
+                "name": "M Theekshana",
+                "player_id": 1138316,
+                "reason": "Bowler with good economy and consistent wicket-taking ability.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "R Shepherd",
+                "player_id": 677077,
+                "reason": "Bowling all-rounder with a decent average and strike rate, providing value with both bat and ball.",
+                "role": "Bowling Allrounder",
+                "team": "MI"
+            },
+            {
+                "credit": 9,
+                "name": "S Dube",
+                "player_id": 714451,
+                "reason": "All-rounder with decent batting average and wicket taking abilities.",
+                "role": "Allrounder",
+                "team": "CSK"
+            }
+        ],
+        "team_balance": {
+            "CSK": 6,
+            "MI": 5
+        },
+        "total_credit_used": 95,
+        "validation": {
+            "credit_usage_valid": true,
+            "roles_valid": true,
+            "team_balance_valid": true
+        },
+        "vice_captain": {
+            "name": "RD Gaikwad",
+            "player_id": 1060380,
+            "reason": "Top-order batter, high chance of scoring big in this pitch."
+        }
+    }
+}

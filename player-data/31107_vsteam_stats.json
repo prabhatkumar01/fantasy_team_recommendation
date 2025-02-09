@@ -1,0 +1,127 @@
+{
+    "player_id": 31107,
+    "player_name": "A Mishra",
+    "teams": [
+        "GT",
+        "PBKS",
+        "DC",
+        "CSK",
+        "MI",
+        "RR",
+        "SRH",
+        "KKR",
+        "RCB"
+    ],
+    "total_performance": {
+        "total_runs_scored": 173,
+        "total_wickets_taken": 157,
+        "highest_score": 39,
+        "best_bowling_figure": "5/17",
+        "batting_average": 7.9,
+        "teams_winning_batting_first": 1,
+        "teams_winning_batting_second": 4,
+        "batting_strike_rate": 86.5,
+        "bowling_strike_rate": 21.8
+    },
+    "overall_performance": {
+        "GT": {
+            "runs_scored": 0,
+            "wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": null,
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "PBKS": {
+            "runs_scored": 7,
+            "wickets_taken": 10,
+            "highest_score": 7,
+            "best_bowling_figure": "3/32",
+            "batting_average": 7,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 116.67,
+            "bowling_strike_rate": 15.7
+        },
+        "DC": {
+            "runs_scored": 97,
+            "wickets_taken": 55,
+            "highest_score": 39,
+            "best_bowling_figure": "5/17",
+            "batting_average": 10.78,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 93.27,
+            "bowling_strike_rate": 21.1
+        },
+        "CSK": {
+            "runs_scored": 2,
+            "wickets_taken": 17,
+            "highest_score": 2,
+            "best_bowling_figure": "3/26",
+            "batting_average": 2,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 25,
+            "bowling_strike_rate": 22.8
+        },
+        "MI": {
+            "runs_scored": 14,
+            "wickets_taken": 15,
+            "highest_score": 8,
+            "best_bowling_figure": "2/18",
+            "batting_average": 4.67,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 77.78,
+            "bowling_strike_rate": 24
+        },
+        "RR": {
+            "runs_scored": 9,
+            "wickets_taken": 10,
+            "highest_score": 9,
+            "best_bowling_figure": "2/23",
+            "batting_average": 3,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 39.13,
+            "bowling_strike_rate": 20.2
+        },
+        "SRH": {
+            "runs_scored": 18,
+            "wickets_taken": 17,
+            "highest_score": 12,
+            "best_bowling_figure": "4/9",
+            "batting_average": 6,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 81.82,
+            "bowling_strike_rate": 20.6
+        },
+        "KKR": {
+            "runs_scored": 19,
+            "wickets_taken": 18,
+            "highest_score": 10,
+            "best_bowling_figure": "3/28",
+            "batting_average": 6.33,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 86.36,
+            "bowling_strike_rate": 23
+        },
+        "RCB": {
+            "runs_scored": 7,
+            "wickets_taken": 15,
+            "highest_score": 6,
+            "best_bowling_figure": "4/27",
+            "batting_average": 3.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 58.33,
+            "bowling_strike_rate": 21.4
+        }
+    }
+}

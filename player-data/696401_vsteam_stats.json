@@ -1,0 +1,105 @@
+{
+    "player_id": "696401",
+    "player_name": "M Jansen",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 22,
+            "total_wickets": 3,
+            "highest_score": 14,
+            "best_bowling_figure": "2/35",
+            "batting_average": 11.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 146.67,
+            "bowling_strike_rate": 24.0
+        },
+        "PBKS": {
+            "total_runs": 0,
+            "total_wickets": 2,
+            "highest_score": 0,
+            "best_bowling_figure": "2/29",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 18.0
+        },
+        "LSG": {
+            "total_runs": 14,
+            "total_wickets": 3,
+            "highest_score": 14,
+            "best_bowling_figure": "2/30",
+            "batting_average": 14.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 200.0,
+            "bowling_strike_rate": 16.0
+        },
+        "DC": {
+            "total_runs": 0,
+            "total_wickets": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/25",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "CSK": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/33",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "MI": {
+            "total_runs": 6,
+            "total_wickets": 0,
+            "highest_score": 6,
+            "best_bowling_figure": "0/35",
+            "batting_average": 6.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": 0.0
+        },
+        "RR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/39",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "KKR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/37",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "RCB": {
+            "total_runs": 0,
+            "total_wickets": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/43",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        }
+    }
+}

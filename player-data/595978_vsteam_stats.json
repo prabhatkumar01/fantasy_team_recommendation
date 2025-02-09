@@ -1,0 +1,105 @@
+{
+    "player_id": 595978,
+    "player_name": "T Stubbs",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 37,
+            "total_wickets": 0,
+            "highest_score": 37,
+            "best_bowling_figure": "-",
+            "batting_average": 37.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 205.56,
+            "bowling_strike_rate": "-"
+        },
+        "PBKS": {
+            "total_runs": 28,
+            "total_wickets": 0,
+            "highest_score": 28,
+            "best_bowling_figure": "-",
+            "batting_average": 28.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 175.0,
+            "bowling_strike_rate": "-"
+        },
+        "LSG": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        },
+        "CSK": {
+            "total_runs": 23,
+            "total_wickets": 0,
+            "highest_score": 23,
+            "best_bowling_figure": "-",
+            "batting_average": 23.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 164.29,
+            "bowling_strike_rate": "-"
+        },
+        "MI": {
+            "total_runs": 52,
+            "total_wickets": 0,
+            "highest_score": 52,
+            "best_bowling_figure": "-",
+            "batting_average": 52.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 192.59,
+            "bowling_strike_rate": "-"
+        },
+        "RR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "-"
+        },
+        "SRH": {
+            "total_runs": 30,
+            "total_wickets": 0,
+            "highest_score": 30,
+            "best_bowling_figure": "-",
+            "batting_average": 30.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": "-"
+        },
+        "KKR": {
+            "total_runs": 48,
+            "total_wickets": 0,
+            "highest_score": 48,
+            "best_bowling_figure": "-",
+            "batting_average": 48.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 192.0,
+            "bowling_strike_rate": "-"
+        },
+        "RCB": {
+            "total_runs": 10,
+            "total_wickets": 0,
+            "highest_score": 10,
+            "best_bowling_figure": "-",
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": "-"
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "player_id": 381743,
+    "player_name": "DJ Mitchell",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 150,
+            "total_wickets": 2,
+            "highest_score": 75,
+            "best_bowling_figure": "2/25",
+            "batting_average": 50.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 130.43,
+            "bowling_strike_rate": 18.0
+        },
+        "PBKS": {
+            "total_runs": 80,
+            "total_wickets": 0,
+            "highest_score": 45,
+            "best_bowling_figure": null,
+            "batting_average": 40.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 123.08,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs": 200,
+            "total_wickets": 1,
+            "highest_score": 89,
+            "best_bowling_figure": "1/30",
+            "batting_average": 66.67,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 140.85,
+            "bowling_strike_rate": 36.0
+        },
+        "DC": {
+            "total_runs": 120,
+            "total_wickets": 3,
+            "highest_score": 60,
+            "best_bowling_figure": "2/35",
+            "batting_average": 40.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 126.32,
+            "bowling_strike_rate": 15.0
+        },
+        "MI": {
+            "total_runs": 90,
+            "total_wickets": 1,
+            "highest_score": 50,
+            "best_bowling_figure": "1/40",
+            "batting_average": 45.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 118.42,
+            "bowling_strike_rate": 24.0
+        },
+        "RR": {
+            "total_runs": 180,
+            "total_wickets": 2,
+            "highest_score": 90,
+            "best_bowling_figure": "2/30",
+            "batting_average": 60.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 135.85,
+            "bowling_strike_rate": 21.0
+        },
+        "SRH": {
+            "total_runs": 70,
+            "total_wickets": 0,
+            "highest_score": 35,
+            "best_bowling_figure": null,
+            "batting_average": 35.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 112.9,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs": 110,
+            "total_wickets": 1,
+            "highest_score": 55,
+            "best_bowling_figure": "1/28",
+            "batting_average": 55.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 120.88,
+            "bowling_strike_rate": 30.0
+        },
+        "RCB": {
+            "total_runs": 160,
+            "total_wickets": 2,
+            "highest_score": 80,
+            "best_bowling_figure": "1/20",
+            "batting_average": 53.33,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 133.33,
+            "bowling_strike_rate": 24.0
+        }
+    }
+}

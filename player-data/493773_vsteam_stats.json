@@ -1,0 +1,105 @@
+{
+    "player_id": 493773,
+    "player_name": "LH Ferguson",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 24,
+            "total_wickets": 10,
+            "highest_score": 24,
+            "best_bowling_figure": "4/28",
+            "batting_average": 24.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": 15.0
+        },
+        "PBKS": {
+            "total_runs": 0,
+            "total_wickets": 2,
+            "highest_score": 0,
+            "best_bowling_figure": "2/32",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "LSG": {
+            "total_runs": 0,
+            "total_wickets": 3,
+            "highest_score": 0,
+            "best_bowling_figure": "2/26",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 10.67
+        },
+        "DC": {
+            "total_runs": 0,
+            "total_wickets": 3,
+            "highest_score": 0,
+            "best_bowling_figure": "4/24",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 8.0
+        },
+        "CSK": {
+            "total_runs": 0,
+            "total_wickets": 3,
+            "highest_score": 0,
+            "best_bowling_figure": "3/46",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 18.67
+        },
+        "MI": {
+            "total_runs": 4,
+            "total_wickets": 0,
+            "highest_score": 4,
+            "best_bowling_figure": "0/27",
+            "batting_average": 4.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 80.0,
+            "bowling_strike_rate": 0.0
+        },
+        "RR": {
+            "total_runs": 0,
+            "total_wickets": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/24",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "SRH": {
+            "total_runs": 0,
+            "total_wickets": 2,
+            "highest_score": 0,
+            "best_bowling_figure": "2/20",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 15.0
+        },
+        "KKR": {
+            "total_runs": 0,
+            "total_wickets": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/40",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "player_id": 430246,
+    "player_name": "YS Chahal",
+    "overall_performance": {
+        "GT": {
+            "matches_played": 6,
+            "runs_scored": 25,
+            "highest_score": 12,
+            "batting_average": 8.33,
+            "batting_strike_rate": 113.63,
+            "wickets_taken": 7,
+            "best_bowling_figure": "3/22",
+            "bowling_strike_rate": 16.28,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 3
+        },
+        "PBKS": {
+            "matches_played": 13,
+            "runs_scored": 42,
+            "highest_score": 14,
+            "batting_average": 6.0,
+            "batting_strike_rate": 93.33,
+            "wickets_taken": 16,
+            "best_bowling_figure": "4/41",
+            "bowling_strike_rate": 14.68,
+            "teams_winning_batting_first": 6,
+            "teams_winning_batting_second": 7
+        },
+        "LSG": {
+            "matches_played": 4,
+            "runs_scored": 5,
+            "highest_score": 5,
+            "batting_average": 5.0,
+            "batting_strike_rate": 83.33,
+            "wickets_taken": 4,
+            "best_bowling_figure": "2/28",
+            "bowling_strike_rate": 21.0,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 2
+        },
+        "DC": {
+            "matches_played": 17,
+            "runs_scored": 63,
+            "highest_score": 15,
+            "batting_average": 6.3,
+            "batting_strike_rate": 105.0,
+            "wickets_taken": 29,
+            "best_bowling_figure": "4/13",
+            "bowling_strike_rate": 13.75,
+            "teams_winning_batting_first": 8,
+            "teams_winning_batting_second": 9
+        },
+        "CSK": {
+            "matches_played": 18,
+            "runs_scored": 53,
+            "highest_score": 18,
+            "batting_average": 5.88,
+            "batting_strike_rate": 91.37,
+            "wickets_taken": 24,
+            "best_bowling_figure": "3/24",
+            "bowling_strike_rate": 21.54,
+            "teams_winning_batting_first": 9,
+            "teams_winning_batting_second": 9
+        },
+        "MI": {
+            "matches_played": 19,
+            "runs_scored": 74,
+            "highest_score": 34,
+            "batting_average": 6.16,
+            "batting_strike_rate": 93.67,
+            "wickets_taken": 23,
+            "best_bowling_figure": "4/38",
+            "bowling_strike_rate": 21.91,
+            "teams_winning_batting_first": 9,
+            "teams_winning_batting_second": 10
+        },
+        "SRH": {
+            "matches_played": 18,
+            "runs_scored": 58,
+            "highest_score": 20,
+            "batting_average": 6.44,
+            "batting_strike_rate": 109.43,
+            "wickets_taken": 20,
+            "best_bowling_figure": "3/22",
+            "bowling_strike_rate": 23.7,
+            "teams_winning_batting_first": 9,
+            "teams_winning_batting_second": 9
+        },
+        "KKR": {
+            "matches_played": 18,
+            "runs_scored": 71,
+            "highest_score": 18,
+            "batting_average": 7.88,
+            "batting_strike_rate": 118.33,
+            "wickets_taken": 20,
+            "best_bowling_figure": "5/40",
+            "bowling_strike_rate": 21.45,
+            "teams_winning_batting_first": 9,
+            "teams_winning_batting_second": 9
+        },
+        "RCB": {
+            "matches_played": 18,
+            "runs_scored": 59,
+            "highest_score": 21,
+            "batting_average": 5.9,
+            "batting_strike_rate": 100.0,
+            "wickets_taken": 28,
+            "best_bowling_figure": "4/25",
+            "bowling_strike_rate": 16.07,
+            "teams_winning_batting_first": 9,
+            "teams_winning_batting_second": 9
+        }
+    }
+}

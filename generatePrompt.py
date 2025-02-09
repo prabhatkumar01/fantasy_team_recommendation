@@ -1,29 +1,44 @@
 from google.cloud import storage, aiplatform
 from google import genai
+import json
+import utils
 from google.genai import types
 
+def generate_player_performance_prompt(player_name, ground_name):
+    prompt = f"""
+    Fetch the performance details of the player {player_name} at the ground {ground_name} for the following IPL seasons: 2019, 2020, 2021, 2022, 2023, and 2024. The details should include:
+    - Scores
+    - Wickets taken
+    - Highest score
+    - Best bowling figure
+    - Batting average
+    - Teams winning batting first
+    - Teams winning batting second
+    - Strike rate
+
+    Please provide the data in JSON format.
+    """
+    return prompt
 
 def generate_autofill_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards, selected_players):
     prompt = f"Here are the details of the players in match for {team1}:\n\n"
-    
+    # prompt += "Player ID: '001', Name: 'anirudh', Roles: 'Batting', Team Name: 'RCB', Credit: '10', Matches: '300', Runs: '6000', Average: '70', Best Performance: '200', Wickets: '200', Economy: '15', Five Wicket Hauls: '10', Bowling Strike Rate: '20'\n"
     for player in players_info_1:
         prompt += (
-            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['roles']}, "
-            f"Team Name: {player['teamName']}, Credit: {player['credit ']}, "
-            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['avg']}, "
-            f"Best Performance: {player['best_performance']}, Wickets: {player['wickets']}, "
-            f"Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
+            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['playingRoles']}, "
+            f"Team Name: {player['teamName']}, Credit: {player['credit']}, "
+            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['batting_avg']}, "
+            f"Wickets: {player['wickets']}, Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
             f"Bowling Strike Rate: {player['bolwing_strike_rate']}\n"
         )
-
+    
     prompt += f"\nHere are the details of the players in match for {team2}:\n\n"
     for player in players_info_2:
         prompt += (
-            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['roles']}, "
-            f"Team Name: {player['teamName']}, Credit: {player['credit ']}, "
-            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['avg']}, "
-            f"Best Performance: {player['best_performance']}, Wickets: {player['wickets']}, "
-            f"Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
+            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['playingRoles']}, "
+            f"Team Name: {player['teamName']}, Credit: {player['credit']}, "
+            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['batting_avg']}, "
+            f"Wickets: {player['wickets']}, Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
             f"Bowling Strike Rate: {player['bolwing_strike_rate']}\n"
         )
 
@@ -68,30 +83,35 @@ def generate_autofill_prompt(team1, team2, players_info_1, players_info_2, rules
     return prompt
 
 
-def generate_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards):
-
+def generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards, ground,  risk_percentage, team_type, team_count, point_system):
     prompt = f"Here are the details of the players in match for {team1}:\n\n"
     for player in players_info_1:
         prompt += (
-            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['roles']}, "
-            f"Team Name: {player['teamName']}, Credit: {player['credit ']}, "
-            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['avg']}, "
-            f"Best Performance: {player['best_performance']}, Wickets: {player['wickets']}, "
-            f"Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
+            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['playingRoles']}, "
+            f"Team Name: {player['teamName']}, Credit: {player['credit']}, "
+            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['batting_avg']}, "
+            f"Wickets: {player['wickets']}, Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
             f"Bowling Strike Rate: {player['bolwing_strike_rate']}\n"
         )
+         # Add player stats for the opponent team
+        player_stats = utils.get_player_stats(player['id'], team2)
+        if player_stats:
+            prompt += f"Player Stats against Oponent {team2}: {json.dumps(player_stats, indent=4)}\n"
     
     prompt += f"\nHere are the details of the players in match for {team2}:\n\n"
     for player in players_info_2:
         prompt += (
-            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['roles']}, "
-            f"Team Name: {player['teamName']}, Credit: {player['credit ']}, "
-            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['avg']}, "
-            f"Best Performance: {player['best_performance']}, Wickets: {player['wickets']}, "
-            f"Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
+            f"Player ID: {player['id']}, Name: {player['name']}, Roles: {player['playingRoles']}, "
+            f"Team Name: {player['teamName']}, Credit: {player['credit']}, "
+            f"Matches: {player['match']}, Runs: {player['runs']}, Average: {player['batting_avg']}, "
+            f"Wickets: {player['wickets']}, Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
             f"Bowling Strike Rate: {player['bolwing_strike_rate']}\n"
         )
-    
+         # Add player stats for the opponent team
+        player_stats = utils.get_player_stats(player['id'], team1)
+        if player_stats:
+            prompt += f"Player Stats against Oponent {team1}: {json.dumps(player_stats, indent=4)}\n"
+
     prompt += "Use above info as players info to find players info regarding teamName and their career stats.\n"
 
     prompt += "\nHere are the rules for creating a fantasy team:\n"
@@ -109,14 +129,23 @@ def generate_prompt(team1, team2, players_info_1, players_info_2, rules, scorebo
     prompt += "\nHere are the scoreboards:\n\n"
     for file_name, file_content in scoreboards.items():
         prompt += f"File: {file_name}\nContent:\n{file_content}\n\n"
+        
+    prompt += "\nHere are the ground stats:\n\n"
+    prompt += f"Ground Name: {ground['groundName']}\n"
+    for stat, value in ground['stats'].items():
+        prompt += f"{stat.replace('_', ' ').capitalize()}: {value}\n"
     
-    prompt += "\nBased on the above data, please create **three different fantasy teams** of 11 players each, following the given rules strictly."
-    prompt += "Each team should be formed using the same selection strategy but should have **slightly different player combinations**."
+    prompt += f"\nBased on the above data, please create {team_count} different fantasy teams of 11 players each, following the given rules strictly. "
+    prompt += f"Each team should be formed using the {team_type} strategy, Ground Stats,Ground pitch type and should have slightly different player combinations. "
+    prompt += f"Give more weight to player stats against Oponent, Career stats and player ground stats while selecting {risk_percentage}% of players in the team.\n"
+    prompt += "Your goal is to select a team which will collect maximum points in the match.\n"
+    prompt += "Here is the points system:\n"
+    prompt += json.dumps(point_system, indent=4)
     # prompt += "Consider selecting players who are not selected by others to get an edge over the competition.\n"
-    prompt += "Provide the team in the following JSON format, including reasoning for selecting each player, credit calculations, and justifications:\n"
+    prompt += "Provide the team in the following JSON format, including reasoning for selecting each player, credit calculations, and justifications in JSON only:\n"
     # prompt += "Also share me the response of not-selected players and the reason for not selecting them.\n"
-    prompt += "Also share the count of batsmen, bowlers, allrounders, and wicketkeepers in the team.\n"
-    prompt += "Also share all rules and if they are followed or not.\n"
+    #prompt += "Also share the count of batsmen, bowlers, allrounders, and wicketkeepers in the team.\n"
+    #prompt += "Also share all rules and if they are followed or not.\n"
     # prompt += "Also share which player is considered with risk and why.\n"
     prompt += "The JSON format should be as follows:\n"
     prompt += "{\n"
@@ -141,7 +170,25 @@ def generate_prompt(team1, team2, players_info_1, players_info_2, rules, scorebo
 
     return prompt
 
-def generate(prompt_text):
+def generate_player_stats_prompt(player_id, player_name, player_team, all_teams):
+    other_teams = [team for team in all_teams if team != player_team]
+    prompt = f"""
+    Fetch the overall performance stats details of the player {player_name} (ID: {player_id}) against the following teams: {', '.join(other_teams)}. The details should include:
+    - Total Runs Scored
+    - Totoal Wickets taken
+    - Highest score
+    - Best bowling figure
+    - Batting average
+    - Teams winning batting first
+    - Teams winning batting second
+    - Batting Strike rate
+    - Bowling Strike rate
+
+    Please provide the data in JSON format.
+    """
+    return prompt
+
+def generate(prompt_text, isJsonResponse=False):
     client = genai.Client(
         vertexai=True,
         project="jistar-hack25bom-208",
@@ -172,9 +219,25 @@ def generate(prompt_text):
     )
 
     # Generate response
+    response_text = ""
     for chunk in client.models.generate_content_stream(
         model=model,
         contents=contents,
         config=generate_content_config,
     ):
-        print(chunk.text, end="")
+        response_text += chunk.text
+
+    if isJsonResponse:
+        # Remove leading and trailing triple backticks and the 'json' keyword
+        response_text = response_text.strip().strip('```').strip()
+        if response_text.startswith('json'):
+            response_text = response_text[len('json'):].strip()
+
+        # Parse the response to ensure it is in JSON format
+        try:
+            response_json = json.loads(response_text)
+            return response_json
+        except json.JSONDecodeError:
+            return {"error": "The response is not in valid JSON format", "response_text": response_text}
+    else:
+        return response_text

@@ -1,0 +1,105 @@
+{
+    "player_id": 1048739,
+    "player_name": "R Sai Kishore",
+    "overall_performance": {
+        "PBKS": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "LSG": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 2,
+            "highest_score": 0,
+            "best_bowling_figure": "2/12",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 18.0
+        },
+        "DC": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/22",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "CSK": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/18",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        },
+        "MI": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "RR": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "SRH": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "KKR": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 0.0
+        },
+        "RCB": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/20",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24.0
+        }
+    }
+}

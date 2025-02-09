@@ -1,0 +1,105 @@
+{
+    "player_id": 914541,
+    "player_name": "SE Rutherford",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 11,
+            "total_wickets": 0,
+            "highest_score": 11,
+            "best_bowling_figure": "0/0",
+            "batting_average": 11.0,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": 137.5,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs": 28,
+            "total_wickets": 0,
+            "highest_score": 28,
+            "best_bowling_figure": "0/0",
+            "batting_average": 28.0,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": 147.36,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs": 12,
+            "total_wickets": 0,
+            "highest_score": 12,
+            "best_bowling_figure": "0/0",
+            "batting_average": 12.0,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": 133.33,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs": 53,
+            "total_wickets": 0,
+            "highest_score": 38,
+            "best_bowling_figure": "0/0",
+            "batting_average": 53.0,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": 143.24,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs": 16,
+            "total_wickets": 0,
+            "highest_score": 16,
+            "best_bowling_figure": "0/0",
+            "batting_average": 16.0,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": 145.45,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs": 10,
+            "total_wickets": 0,
+            "highest_score": 10,
+            "best_bowling_figure": "0/0",
+            "batting_average": 10.0,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": 125.0,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "total_runs": 10,
+            "total_wickets": 0,
+            "highest_score": 10,
+            "best_bowling_figure": "0/0",
+            "batting_average": 10.0,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": 125.0,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs": 11,
+            "total_wickets": 0,
+            "highest_score": 11,
+            "best_bowling_figure": "0/0",
+            "batting_average": 11.0,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": 122.22,
+            "bowling_strike_rate": null
+        }
+    }
+}

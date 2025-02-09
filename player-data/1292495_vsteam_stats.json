@@ -1,0 +1,105 @@
+{
+    "player_id": 1292495,
+    "player_name": "A Raghuvanshi",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "PBKS": {
+            "total_runs_scored": 32,
+            "total_wickets_taken": 0,
+            "highest_score": 32,
+            "best_bowling_figure": "0/0",
+            "batting_average": 32,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 133.33,
+            "bowling_strike_rate": 0
+        },
+        "LSG": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "DC": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "CSK": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "MI": {
+            "total_runs_scored": 13,
+            "total_wickets_taken": 0,
+            "highest_score": 13,
+            "best_bowling_figure": "0/0",
+            "batting_average": 13,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 86.67,
+            "bowling_strike_rate": 0
+        },
+        "RR": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "SRH": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        },
+        "RCB": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "0/0",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": 0
+        }
+    }
+}

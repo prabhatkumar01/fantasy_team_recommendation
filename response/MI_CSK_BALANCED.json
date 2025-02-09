@@ -1,0 +1,114 @@
+{
+    "data": {
+        "captain": {
+            "name": "RD Gaikwad",
+            "player_id": 1060380,
+            "reason": "Consistent performer, has been scoring runs consistently. Good form and high potential for a big score."
+        },
+        "fantasy_team": [
+            {
+                "credit": 9,
+                "name": "RD Gaikwad",
+                "player_id": 1060380,
+                "reason": "Top-order batter with a good average and consistent run-scorer; important for a batting-friendly pitch.",
+                "role": "Batsman",
+                "team": "CSK"
+            },
+            {
+                "credit": 7,
+                "name": "DP Conway",
+                "player_id": 379140,
+                "reason": "Good average, consistent performer as opener. Can provide solid runs at the top.",
+                "role": "Wicketkeeper Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "S Dube",
+                "player_id": 714451,
+                "reason": "Aggressive middle-order batter who can also contribute with wickets. Provides value in both departments.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 7,
+                "name": "SA Yadav",
+                "player_id": 446507,
+                "reason": "Experienced batter. High scoring potential on a batting pitch.",
+                "role": "Batsman",
+                "team": "MI"
+            },
+            {
+                "credit": 8,
+                "name": "HH Pandya",
+                "player_id": 625371,
+                "reason": "Key all-rounder for MI, reliable with both bat and ball. Can pick up wickets and score crucial runs.",
+                "role": "Allrounder",
+                "team": "MI"
+            },
+            {
+                "credit": 8,
+                "name": "Ishan Kishan",
+                "player_id": 720471,
+                "reason": "Aggressive opener, capable of exploiting powerplay overs. Valuable runs at the top of the order and wicketkeeping points.",
+                "role": "Wicketkeeper Batter",
+                "team": "MI"
+            },
+            {
+                "credit": 9,
+                "name": "RA Jadeja",
+                "player_id": 234675,
+                "reason": "Valuable all-rounder, economical bowler, and handy lower-order batter. Consistent performer.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "JJ Bumrah",
+                "player_id": 625383,
+                "reason": "Key bowler for MI, high wicket-taking potential, and economical. A must-have in the bowling attack.",
+                "role": "Bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 6,
+                "name": "Mustafizur Rahman",
+                "player_id": 330902,
+                "reason": "Experienced bowler with variations, can pick up wickets at crucial stages. Good economy.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 6,
+                "name": "M Pathirana",
+                "player_id": 1194795,
+                "reason": "Young bowler with raw pace, wicket-taking ability, and has taken multiple 5-wicket hauls.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "R Ravindra",
+                "player_id": 959767,
+                "reason": "Provides a good balance of batting and bowling. Has shown potential and consistency.",
+                "role": "Batting Allrounder",
+                "team": "CSK"
+            }
+        ],
+        "team_balance": {
+            "CSK": 6,
+            "MI": 5
+        },
+        "total_credit_used": 96,
+        "validation": {
+            "credit_usage_valid": true,
+            "roles_valid": true,
+            "team_balance_valid": true
+        },
+        "vice_captain": {
+            "name": "HH Pandya",
+            "player_id": 625371,
+            "reason": "Key all-rounder, expected to contribute with both bat and ball. Can score runs and pick up wickets."
+        }
+    }
+}

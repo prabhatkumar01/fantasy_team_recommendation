@@ -1,0 +1,105 @@
+{
+    "player_id": 971349,
+    "player_name": "N Burger",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": 25,
+            "total_wickets_taken": 1,
+            "highest_score": 25,
+            "best_bowling_figure": "1/28",
+            "batting_average": 25.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 125.0,
+            "bowling_strike_rate": 24.0
+        },
+        "PBKS": {
+            "total_runs_scored": 42,
+            "total_wickets_taken": 2,
+            "highest_score": 42,
+            "best_bowling_figure": "2/32",
+            "batting_average": 42.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 140.0,
+            "bowling_strike_rate": 18.0
+        },
+        "LSG": {
+            "total_runs_scored": 18,
+            "total_wickets_taken": 0,
+            "highest_score": 18,
+            "best_bowling_figure": null,
+            "batting_average": 18.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 90.0,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs_scored": 31,
+            "total_wickets_taken": 1,
+            "highest_score": 31,
+            "best_bowling_figure": "1/35",
+            "batting_average": 31.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 110.71,
+            "bowling_strike_rate": 30.0
+        },
+        "CSK": {
+            "total_runs_scored": 12,
+            "total_wickets_taken": 0,
+            "highest_score": 12,
+            "best_bowling_figure": null,
+            "batting_average": 12.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 80.0,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs_scored": 5,
+            "total_wickets_taken": 1,
+            "highest_score": 5,
+            "best_bowling_figure": "1/40",
+            "batting_average": 5.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 71.43,
+            "bowling_strike_rate": 28.0
+        },
+        "SRH": {
+            "total_runs_scored": 22,
+            "total_wickets_taken": 2,
+            "highest_score": 22,
+            "best_bowling_figure": "2/29",
+            "batting_average": 22.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": 20.0
+        },
+        "KKR": {
+            "total_runs_scored": 35,
+            "total_wickets_taken": 1,
+            "highest_score": 35,
+            "best_bowling_figure": "1/38",
+            "batting_average": 35.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 120.69,
+            "bowling_strike_rate": 26.0
+        },
+        "RCB": {
+            "total_runs_scored": 8,
+            "total_wickets_taken": 0,
+            "highest_score": 8,
+            "best_bowling_figure": null,
+            "batting_average": 8.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 66.67,
+            "bowling_strike_rate": null
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "player_id": "318845",
+    "player_name": "RR Rossouw",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs": 19,
+            "total_wickets": 0,
+            "highest_score": 19,
+            "best_bowling_figure": "-",
+            "batting_average": 19,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 158.33,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs": 0,
+            "total_wickets": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "-",
+            "batting_average": 0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "total_runs": 65,
+            "total_wickets": 0,
+            "highest_score": 65,
+            "best_bowling_figure": "-",
+            "batting_average": 65,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 203.13,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs": 14,
+            "total_wickets": 0,
+            "highest_score": 14,
+            "best_bowling_figure": "-",
+            "batting_average": 14,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 127.27,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs": 56,
+            "total_wickets": 0,
+            "highest_score": 56,
+            "best_bowling_figure": "-",
+            "batting_average": 28,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 164.71,
+            "bowling_strike_rate": null
+        }
+    }
+}

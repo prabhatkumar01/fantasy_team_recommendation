@@ -1,0 +1,105 @@
+{
+    "player_id": 820351,
+    "player_name": "R Powell",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 47,
+            "total_wickets": 0,
+            "highest_score": 27,
+            "best_bowling_figure": null,
+            "batting_average": 23.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 151.61,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs": 74,
+            "total_wickets": 0,
+            "highest_score": 67,
+            "best_bowling_figure": null,
+            "batting_average": 74.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 172.09,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs": 28,
+            "total_wickets": 0,
+            "highest_score": 28,
+            "best_bowling_figure": null,
+            "batting_average": 28.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 147.37,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs": 72,
+            "total_wickets": 0,
+            "highest_score": 36,
+            "best_bowling_figure": null,
+            "batting_average": 24.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 160.0,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs": 3,
+            "total_wickets": 0,
+            "highest_score": 3,
+            "best_bowling_figure": null,
+            "batting_average": 3.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 50.0,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs": 83,
+            "total_wickets": 0,
+            "highest_score": 67,
+            "best_bowling_figure": null,
+            "batting_average": 41.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 162.75,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "total_runs": 13,
+            "total_wickets": 0,
+            "highest_score": 13,
+            "best_bowling_figure": null,
+            "batting_average": 13.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 108.33,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs": 113,
+            "total_wickets": 0,
+            "highest_score": 68,
+            "best_bowling_figure": null,
+            "batting_average": 37.66,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 217.3,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs": 103,
+            "total_wickets": 0,
+            "highest_score": 52,
+            "best_bowling_figure": null,
+            "batting_average": 51.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 201.96,
+            "bowling_strike_rate": null
+        }
+    }
+}

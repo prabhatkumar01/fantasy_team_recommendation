@@ -1,0 +1,105 @@
+{
+    "player_id": "423838",
+    "player_name": "R Tewatia",
+    "overall_performance": {
+        "PBKS": {
+            "total_runs_scored": null,
+            "total_wickets_taken": null,
+            "highest_score": null,
+            "best_bowling_figure": null,
+            "batting_average": null,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": null,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs_scored": null,
+            "total_wickets_taken": null,
+            "highest_score": null,
+            "best_bowling_figure": null,
+            "batting_average": null,
+            "teams_winning_batting_first": null,
+            "teams_winning_batting_second": null,
+            "batting_strike_rate": null,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs_scored": 12,
+            "total_wickets_taken": 0,
+            "highest_score": 12,
+            "best_bowling_figure": "0/13",
+            "batting_average": 12,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 109.09,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs_scored": 23,
+            "total_wickets_taken": 0,
+            "highest_score": 15,
+            "best_bowling_figure": "0/18",
+            "batting_average": 11.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 121.05,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs_scored": 65,
+            "total_wickets_taken": 1,
+            "highest_score": 45,
+            "best_bowling_figure": "1/35",
+            "batting_average": 16.25,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 162.5,
+            "bowling_strike_rate": 42
+        },
+        "RR": {
+            "total_runs_scored": 67,
+            "total_wickets_taken": 1,
+            "highest_score": 24,
+            "best_bowling_figure": "1/24",
+            "batting_average": 16.75,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 159.52,
+            "bowling_strike_rate": 24
+        },
+        "SRH": {
+            "total_runs_scored": 74,
+            "total_wickets_taken": 1,
+            "highest_score": 40,
+            "best_bowling_figure": "1/29",
+            "batting_average": 14.8,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 134.55,
+            "bowling_strike_rate": 30
+        },
+        "KKR": {
+            "total_runs_scored": 77,
+            "total_wickets_taken": 1,
+            "highest_score": 25,
+            "best_bowling_figure": "1/23",
+            "batting_average": 12.83,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 124.19,
+            "bowling_strike_rate": 23
+        },
+        "RCB": {
+            "total_runs_scored": 51,
+            "total_wickets_taken": 1,
+            "highest_score": 24,
+            "best_bowling_figure": "1/25",
+            "batting_average": 12.75,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 134.21,
+            "bowling_strike_rate": 24
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "player_id": 308967,
+    "player_name": "JC Buttler",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 244,
+            "total_wickets": 0,
+            "highest_score": 89,
+            "best_bowling_figure": "0/0",
+            "batting_average": 40.67,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 144.38,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs": 369,
+            "total_wickets": 0,
+            "highest_score": 107,
+            "best_bowling_figure": "0/0",
+            "batting_average": 46.13,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 4,
+            "batting_strike_rate": 152.48,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs": 142,
+            "total_wickets": 0,
+            "highest_score": 70,
+            "best_bowling_figure": "0/0",
+            "batting_average": 28.4,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 143.43,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs": 338,
+            "total_wickets": 0,
+            "highest_score": 116,
+            "best_bowling_figure": "0/0",
+            "batting_average": 42.25,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 4,
+            "batting_strike_rate": 162.5,
+            "bowling_strike_rate": null
+        },
+        "CSK": {
+            "total_runs": 283,
+            "total_wickets": 0,
+            "highest_score": 95,
+            "best_bowling_figure": "0/0",
+            "batting_average": 31.44,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 153.8,
+            "bowling_strike_rate": null
+        },
+        "MI": {
+            "total_runs": 266,
+            "total_wickets": 0,
+            "highest_score": 94,
+            "best_bowling_figure": "0/0",
+            "batting_average": 33.25,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 3,
+            "batting_strike_rate": 148.6,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "total_runs": 356,
+            "total_wickets": 0,
+            "highest_score": 124,
+            "best_bowling_figure": "0/0",
+            "batting_average": 44.5,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 3,
+            "batting_strike_rate": 155.46,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs": 361,
+            "total_wickets": 0,
+            "highest_score": 103,
+            "best_bowling_figure": "0/0",
+            "batting_average": 45.13,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 4,
+            "batting_strike_rate": 158.33,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs": 325,
+            "total_wickets": 0,
+            "highest_score": 106,
+            "best_bowling_figure": "0/0",
+            "batting_average": 40.63,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 3,
+            "batting_strike_rate": 151.16,
+            "bowling_strike_rate": null
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "player_name": "Rashid Khan",
+    "player_id": "793463",
+    "overall_performance": {
+        "PBKS": {
+            "total_runs_scored": 78,
+            "total_wickets_taken": 12,
+            "highest_score": 31,
+            "best_bowling_figure": "4/22",
+            "batting_average": 13.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": 16.5
+        },
+        "LSG": {
+            "total_runs_scored": 34,
+            "total_wickets_taken": 5,
+            "highest_score": 24,
+            "best_bowling_figure": "3/24",
+            "batting_average": 17.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 141.67,
+            "bowling_strike_rate": 24.0
+        },
+        "DC": {
+            "total_runs_scored": 62,
+            "total_wickets_taken": 10,
+            "highest_score": 29,
+            "best_bowling_figure": "3/14",
+            "batting_average": 15.5,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 137.78,
+            "bowling_strike_rate": 19.2
+        },
+        "CSK": {
+            "total_runs_scored": 45,
+            "total_wickets_taken": 8,
+            "highest_score": 27,
+            "best_bowling_figure": "3/36",
+            "batting_average": 11.25,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 128.57,
+            "bowling_strike_rate": 21.0
+        },
+        "MI": {
+            "total_runs_scored": 51,
+            "total_wickets_taken": 9,
+            "highest_score": 24,
+            "best_bowling_figure": "2/24",
+            "batting_average": 12.75,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 134.21,
+            "bowling_strike_rate": 20.0
+        },
+        "RR": {
+            "total_runs_scored": 67,
+            "total_wickets_taken": 11,
+            "highest_score": 34,
+            "best_bowling_figure": "3/19",
+            "batting_average": 16.75,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 148.89,
+            "bowling_strike_rate": 17.45
+        },
+        "SRH": {
+            "total_runs_scored": 42,
+            "total_wickets_taken": 7,
+            "highest_score": 22,
+            "best_bowling_figure": "3/22",
+            "batting_average": 10.5,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 120.0,
+            "bowling_strike_rate": 22.86
+        },
+        "KKR": {
+            "total_runs_scored": 58,
+            "total_wickets_taken": 13,
+            "highest_score": 25,
+            "best_bowling_figure": "3/21",
+            "batting_average": 14.5,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 141.46,
+            "bowling_strike_rate": 15.69
+        },
+        "RCB": {
+            "total_runs_scored": 65,
+            "total_wickets_taken": 14,
+            "highest_score": 30,
+            "best_bowling_figure": "3/27",
+            "batting_average": 16.25,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 132.65,
+            "bowling_strike_rate": 15.43
+        }
+    }
+}

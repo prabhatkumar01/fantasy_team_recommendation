@@ -1,0 +1,105 @@
+{
+    "player_name": "Lalit Yadav",
+    "player_id": "930189",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 10,
+            "total_wickets": 0,
+            "highest_score": 10,
+            "best_bowling_figure": "0/14",
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs": 11,
+            "total_wickets": 0,
+            "highest_score": 11,
+            "best_bowling_figure": "0/14",
+            "batting_average": 11.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": null
+        },
+        "LSG": {
+            "total_runs": 11,
+            "total_wickets": 2,
+            "highest_score": 11,
+            "best_bowling_figure": "2/21",
+            "batting_average": 11.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": 15.0
+        },
+        "CSK": {
+            "total_runs": 12,
+            "total_wickets": 1,
+            "highest_score": 12,
+            "best_bowling_figure": "1/16",
+            "batting_average": 12.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": 24.0
+        },
+        "MI": {
+            "total_runs": 28,
+            "total_wickets": 0,
+            "highest_score": 25,
+            "best_bowling_figure": "0/15",
+            "batting_average": 28.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 140.0,
+            "bowling_strike_rate": null
+        },
+        "RR": {
+            "total_runs": 10,
+            "total_wickets": 1,
+            "highest_score": 10,
+            "best_bowling_figure": "1/12",
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": 20.0
+        },
+        "SRH": {
+            "total_runs": 56,
+            "total_wickets": 0,
+            "highest_score": 56,
+            "best_bowling_figure": "0/27",
+            "batting_average": 56.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 200.0,
+            "bowling_strike_rate": null
+        },
+        "KKR": {
+            "total_runs": 29,
+            "total_wickets": 0,
+            "highest_score": 29,
+            "best_bowling_figure": "0/16",
+            "batting_average": 29.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 116.0,
+            "bowling_strike_rate": null
+        },
+        "RCB": {
+            "total_runs": 10,
+            "total_wickets": 1,
+            "highest_score": 10,
+            "best_bowling_figure": "1/17",
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": 23.0
+        }
+    }
+}

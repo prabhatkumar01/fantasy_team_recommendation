@@ -1,0 +1,26 @@
+{
+    "player_id": 379140,
+    "player_name": "DP Conway",
+    "overall_performance": {
+        "teams": [
+            "GT",
+            "PBKS",
+            "LSG",
+            "DC",
+            "MI",
+            "RR",
+            "SRH",
+            "KKR",
+            "RCB"
+        ],
+        "total_runs_scored": 550,
+        "total_wickets_taken": 0,
+        "highest_score": 92,
+        "best_bowling_figure": "0/0",
+        "batting_average": 55.0,
+        "teams_winning_batting_first": 4,
+        "teams_winning_batting_second": 5,
+        "batting_strike_rate": 145.67,
+        "bowling_strike_rate": null
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "data": {
+        "captain": {
+            "name": "HH Pandya",
+            "player_id": 625371,
+            "reason": "High impact player and can contribute with both bat and ball."
+        },
+        "fantasy_team": [
+            {
+                "credit": 9,
+                "name": "RD Gaikwad",
+                "player_id": 1060380,
+                "reason": "Excellent average of 39.56 in 23 matches. Consistent performer.",
+                "role": "batsman",
+                "team": "CSK"
+            },
+            {
+                "credit": 7,
+                "name": "D Madushanka",
+                "player_id": 793007,
+                "reason": "Has taken 15 wickets in 15 matches, good recent form.",
+                "role": "bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 9,
+                "name": "MS Dhoni",
+                "player_id": 28081,
+                "reason": "Experienced wicketkeeper and capable batter, valuable experience.",
+                "role": "wicketkeeper batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "S Dube",
+                "player_id": 714451,
+                "reason": "Useful all-rounder, can contribute with both bat and ball, average of 31.23.",
+                "role": "allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "RA Jadeja",
+                "player_id": 234675,
+                "reason": "Key all-rounder for CSK, contributes with bat and ball consistently, economy of 7.13.",
+                "role": "allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "HH Pandya",
+                "player_id": 625371,
+                "reason": "Valuable all-rounder, can take wickets and score runs. High impact player.",
+                "role": "allrounder",
+                "team": "MI"
+            },
+            {
+                "credit": 6,
+                "name": "Mustafizur Rahman",
+                "player_id": 330902,
+                "reason": "Experienced bowler with 132 wickets in 106 matches. Great value at 6 credits.",
+                "role": "bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "JJ Bumrah",
+                "player_id": 625383,
+                "reason": "MI's best bowler, known for his excellent economy and wicket-taking ability.",
+                "role": "bowler",
+                "team": "MI"
+            },
+            {
+                "credit": 7,
+                "name": "DP Conway",
+                "player_id": 379140,
+                "reason": "Solid opening batter with an average of 38.05 in 50 matches.",
+                "role": "wicketkeeper batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 8,
+                "name": "TH David",
+                "player_id": 892749,
+                "reason": "Power hitter with a good average of 33.36. Can score quick runs.",
+                "role": "batsman",
+                "team": "MI"
+            },
+            {
+                "credit": 9,
+                "name": "R Ravindra",
+                "player_id": 959767,
+                "reason": "Promising all-rounder with both batting and bowling skills. Good economy and strike rate.",
+                "role": "allrounder",
+                "team": "CSK"
+            }
+        ],
+        "team_balance": {
+            "CSK": 6,
+            "MI": 5
+        },
+        "total_credit_used": 99,
+        "validation": {
+            "credit_usage_valid": true,
+            "roles_valid": true,
+            "team_balance_valid": true
+        },
+        "vice_captain": {
+            "name": "RD Gaikwad",
+            "player_id": 1060380,
+            "reason": "Consistent top-order batter with a good average and strike rate."
+        }
+    }
+}

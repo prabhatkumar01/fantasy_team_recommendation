@@ -5,7 +5,7 @@ import io
 def read_file_from_gcs():
     client = storage.Client()
     bucket = client.bucket('players_stats_credits')
-    blob = bucket.blob('players_stats_credit.csv')
+    blob = bucket.blob('player.csv')
     file_content = blob.download_as_string()
     return file_content.decode('utf-8')
 

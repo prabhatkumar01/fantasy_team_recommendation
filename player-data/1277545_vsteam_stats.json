@@ -1,0 +1,105 @@
+{
+    "player_id": 1277545,
+    "player_name": "Abishek Porel",
+    "overall_performance": {
+        "GT": {
+            "total_runs_scored": 15,
+            "total_wickets_taken": 0,
+            "highest_score": 15,
+            "best_bowling_figure": "N/A",
+            "batting_average": 15.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 107.14,
+            "bowling_strike_rate": "N/A"
+        },
+        "PBKS": {
+            "total_runs_scored": 9,
+            "total_wickets_taken": 0,
+            "highest_score": 9,
+            "best_bowling_figure": "N/A",
+            "batting_average": 9.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 100.0,
+            "bowling_strike_rate": "N/A"
+        },
+        "LSG": {
+            "total_runs_scored": 58,
+            "total_wickets_taken": 0,
+            "highest_score": 58,
+            "best_bowling_figure": "N/A",
+            "batting_average": 58.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 152.63,
+            "bowling_strike_rate": "N/A"
+        },
+        "CSK": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "N/A",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "N/A"
+        },
+        "MI": {
+            "total_runs_scored": 10,
+            "total_wickets_taken": 0,
+            "highest_score": 10,
+            "best_bowling_figure": "N/A",
+            "batting_average": 10.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 125.0,
+            "bowling_strike_rate": "N/A"
+        },
+        "RR": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "N/A",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "N/A"
+        },
+        "SRH": {
+            "total_runs_scored": 42,
+            "total_wickets_taken": 0,
+            "highest_score": 42,
+            "best_bowling_figure": "N/A",
+            "batting_average": 21.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 150.0,
+            "bowling_strike_rate": "N/A"
+        },
+        "KKR": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "N/A",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "N/A"
+        },
+        "RCB": {
+            "total_runs_scored": 0,
+            "total_wickets_taken": 0,
+            "highest_score": 0,
+            "best_bowling_figure": "N/A",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": "N/A"
+        }
+    }
+}

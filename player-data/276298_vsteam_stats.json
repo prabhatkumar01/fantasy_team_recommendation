@@ -1,0 +1,105 @@
+{
+    "player_id": 276298,
+    "player_name": "AD Russell",
+    "overall_performance_vs_teams": {
+        "GT": {
+            "total_runs": 83,
+            "total_wickets": 2,
+            "highest_score": 48,
+            "best_bowling_figure": "1/5",
+            "batting_average": 41.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 169.38,
+            "bowling_strike_rate": 18.5
+        },
+        "PBKS": {
+            "total_runs": 133,
+            "total_wickets": 4,
+            "highest_score": 64,
+            "best_bowling_figure": "2/21",
+            "batting_average": 33.25,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 172.72,
+            "bowling_strike_rate": 16.75
+        },
+        "LSG": {
+            "total_runs": 56,
+            "total_wickets": 0,
+            "highest_score": 45,
+            "best_bowling_figure": "-",
+            "batting_average": 28.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 1,
+            "batting_strike_rate": 155.55,
+            "bowling_strike_rate": null
+        },
+        "DC": {
+            "total_runs": 304,
+            "total_wickets": 10,
+            "highest_score": 88,
+            "best_bowling_figure": "4/20",
+            "batting_average": 38.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 171.75,
+            "bowling_strike_rate": 15.0
+        },
+        "CSK": {
+            "total_runs": 192,
+            "total_wickets": 8,
+            "highest_score": 70,
+            "best_bowling_figure": "2/9",
+            "batting_average": 24.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 170.0,
+            "bowling_strike_rate": 18.25
+        },
+        "MI": {
+            "total_runs": 255,
+            "total_wickets": 5,
+            "highest_score": 80,
+            "best_bowling_figure": "2/25",
+            "batting_average": 28.33,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 2,
+            "batting_strike_rate": 181.42,
+            "bowling_strike_rate": 28.8
+        },
+        "RR": {
+            "total_runs": 232,
+            "total_wickets": 7,
+            "highest_score": 49,
+            "best_bowling_figure": "3/25",
+            "batting_average": 29.0,
+            "teams_winning_batting_first": 1,
+            "teams_winning_batting_second": 3,
+            "batting_strike_rate": 181.25,
+            "bowling_strike_rate": 19.71
+        },
+        "SRH": {
+            "total_runs": 208,
+            "total_wickets": 7,
+            "highest_score": 64,
+            "best_bowling_figure": "3/22",
+            "batting_average": 26.0,
+            "teams_winning_batting_first": 2,
+            "teams_winning_batting_second": 3,
+            "batting_strike_rate": 174.78,
+            "bowling_strike_rate": 18.0
+        },
+        "RCB": {
+            "total_runs": 285,
+            "total_wickets": 10,
+            "highest_score": 65,
+            "best_bowling_figure": "3/9",
+            "batting_average": 31.67,
+            "teams_winning_batting_first": 3,
+            "teams_winning_batting_second": 3,
+            "batting_strike_rate": 180.37,
+            "bowling_strike_rate": 13.2
+        }
+    }
+}

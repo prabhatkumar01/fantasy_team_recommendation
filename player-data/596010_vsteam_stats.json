@@ -1,0 +1,112 @@
+{
+    "overall_performance": {
+       "GT": {
+            "opponent": "GT",
+            "total_runs": 24,
+            "total_wickets": 2,
+            "highest_score": 24,
+            "best_bowling_figure": "2/18",
+            "batting_average": 24.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 171.43,
+            "bowling_strike_rate": 13.5
+        },
+       "PBKS": {
+            "opponent": "PBKS",
+            "total_runs": 45,
+            "total_wickets": 1,
+            "highest_score": 45,
+            "best_bowling_figure": "1/42",
+            "batting_average": 45.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 214.29,
+            "bowling_strike_rate": 24
+        },
+       "LSG": {
+            "opponent": "LSG",
+            "total_runs": 29,
+            "total_wickets": 0,
+            "highest_score": 29,
+            "best_bowling_figure": null,
+            "batting_average": 29.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 152.63,
+            "bowling_strike_rate": null
+        },
+        "DC":{
+            "opponent": "DC",
+            "total_runs": 1,
+            "total_wickets": 1,
+            "highest_score": 1,
+            "best_bowling_figure": "1/27",
+            "batting_average": 1.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 33.33,
+            "bowling_strike_rate": 24
+        },
+       "CSK": {
+            "opponent": "CSK",
+            "total_runs": 0,
+            "total_wickets": 1,
+            "highest_score": 0,
+            "best_bowling_figure": "1/29",
+            "batting_average": 0.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 0.0,
+            "bowling_strike_rate": 24
+        },
+       "RR": {
+            "opponent": "RR",
+            "total_runs": 4,
+            "total_wickets": 0,
+            "highest_score": 4,
+            "best_bowling_figure": null,
+            "batting_average": 4.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 80.0,
+            "bowling_strike_rate": null
+        },
+        "SRH": {
+            "opponent": "SRH",
+            "total_runs": 13,
+            "total_wickets": 1,
+            "highest_score": 13,
+            "best_bowling_figure": "1/41",
+            "batting_average": 13.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 118.18,
+            "bowling_strike_rate": 24
+        },
+        "KKR": {
+            "opponent": "KKR",
+            "total_runs": 19,
+            "total_wickets": 2,
+            "highest_score": 19,
+            "best_bowling_figure": "2/34",
+            "batting_average": 19.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 146.15,
+            "bowling_strike_rate": 15
+        },
+       "RCB": {
+            "opponent": "RCB",
+            "total_runs": 26,
+            "total_wickets": 0,
+            "highest_score": 26,
+            "best_bowling_figure": null,
+            "batting_average": 26.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 136.84,
+            "bowling_strike_rate": null
+        }
+    }
+}

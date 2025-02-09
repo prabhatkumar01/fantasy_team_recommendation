@@ -1,0 +1,105 @@
+{
+    "player_id": "424377",
+    "player_name": "K Gowtham",
+    "overall_performance": {
+        "GT": {
+            "total_runs": 13,
+            "total_wickets": 0,
+            "highest_score": 13,
+            "best_bowling_figure": "0/13",
+            "batting_average": 13.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 162.5,
+            "bowling_strike_rate": null
+        },
+        "PBKS": {
+            "total_runs": 24,
+            "total_wickets": 2,
+            "highest_score": 14,
+            "best_bowling_figure": "1/15",
+            "batting_average": 12.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 133.33,
+            "bowling_strike_rate": 30.0
+        },
+        "DC": {
+            "total_runs": 21,
+            "total_wickets": 1,
+            "highest_score": 13,
+            "best_bowling_figure": "1/13",
+            "batting_average": 21.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 175.0,
+            "bowling_strike_rate": 24.0
+        },
+        "CSK": {
+            "total_runs": 5,
+            "total_wickets": 3,
+            "highest_score": 5,
+            "best_bowling_figure": "2/6",
+            "batting_average": 5.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 83.33,
+            "bowling_strike_rate": 22.0
+        },
+        "MI": {
+            "total_runs": 26,
+            "total_wickets": 2,
+            "highest_score": 13,
+            "best_bowling_figure": "2/23",
+            "batting_average": 13.0,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 162.5,
+            "bowling_strike_rate": 27.0
+        },
+        "RR": {
+            "total_runs": 53,
+            "total_wickets": 7,
+            "highest_score": 25,
+            "best_bowling_figure": "2/12",
+            "batting_average": 10.6,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 135.89,
+            "bowling_strike_rate": 20.57
+        },
+        "SRH": {
+            "total_runs": 127,
+            "total_wickets": 4,
+            "highest_score": 33,
+            "best_bowling_figure": "2/18",
+            "batting_average": 21.17,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 160.76,
+            "bowling_strike_rate": 24.75
+        },
+        "KKR": {
+            "total_runs": 13,
+            "total_wickets": 3,
+            "highest_score": 7,
+            "best_bowling_figure": "2/11",
+            "batting_average": 6.5,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 86.67,
+            "bowling_strike_rate": 14.0
+        },
+        "RCB": {
+            "total_runs": 44,
+            "total_wickets": 5,
+            "highest_score": 33,
+            "best_bowling_figure": "2/28",
+            "batting_average": 8.8,
+            "teams_winning_batting_first": 0,
+            "teams_winning_batting_second": 0,
+            "batting_strike_rate": 102.33,
+            "bowling_strike_rate": 20.4
+        }
+    }
+}

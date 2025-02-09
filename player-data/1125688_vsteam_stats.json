@@ -1,0 +1,106 @@
+
+        {
+            "player_id": 1125688,
+            "player_name": "Mukesh Choudhary",
+            "overall_performance": {
+                "GT": {
+                    "total_runs_scored": 2,
+                    "total_wickets_taken": 1,
+                    "highest_score": 2,
+                    "best_bowling_figure": "1/18",
+                    "batting_average": 2.0,
+                    "teams_winning_batting_first": 0,
+                    "teams_winning_batting_second": 0,
+                    "batting_strike_rate": 100.0,
+                    "bowling_strike_rate": 24.0
+                },
+                "PBKS": {
+                    "total_runs_scored": 0,
+                    "total_wickets_taken": 0,
+                    "highest_score": 0,
+                    "best_bowling_figure": "0/52",
+                    "batting_average": 0.0,
+                    "teams_winning_batting_first": 0,
+                    "teams_winning_batting_second": 0,
+                    "batting_strike_rate": 0.0,
+                    "bowling_strike_rate": 0.0
+                },
+                "LSG": {
+                    "total_runs_scored": 0,
+                    "total_wickets_taken": 0,
+                    "highest_score": 0,
+                    "best_bowling_figure": "0/41",
+                    "batting_average": 0.0,
+                    "teams_winning_batting_first": 0,
+                    "teams_winning_batting_second": 0,
+                    "batting_strike_rate": 0.0,
+                    "bowling_strike_rate": 0.0
+                },
+                "DC": {
+                    "total_runs_scored": 0,
+                    "total_wickets_taken": 4,
+                    "highest_score": 0,
+                    "best_bowling_figure": "4/30",
+                    "batting_average": 0.0,
+                    "teams_winning_batting_first": 0,
+                    "teams_winning_batting_second": 0,
+                    "batting_strike_rate": 0.0,
+                    "bowling_strike_rate": 16.25
+                },
+                "MI": {
+                    "total_runs_scored": 0,
+                    "total_wickets_taken": 0,
+                    "highest_score": 0,
+                    "best_bowling_figure": "0/40",
+                    "batting_average": 0.0,
+                    "teams_winning_batting_first": 0,
+                    "teams_winning_batting_second": 0,
+                    "batting_strike_rate": 0.0,
+                    "bowling_strike_rate": 0.0
+                },
+                "RR": {
+                    "total_runs_scored": 16,
+                    "total_wickets_taken": 1,
+                    "highest_score": 16,
+                    "best_bowling_figure": "1/43",
+                    "batting_average": 16.0,
+                    "teams_winning_batting_first": 0,
+                    "teams_winning_batting_second": 0,
+                    "batting_strike_rate": 181.81,
+                    "bowling_strike_rate": 43.0
+                },
+                "SRH": {
+                    "total_runs_scored": 0,
+                    "total_wickets_taken": 0,
+                    "highest_score": 0,
+                    "best_bowling_figure": "0/29",
+                    "batting_average": 0.0,
+                    "teams_winning_batting_first": 0,
+                    "teams_winning_batting_second": 0,
+                    "batting_strike_rate": 0.0,
+                    "bowling_strike_rate": 0.0
+                },
+                "KKR": {
+                    "total_runs_scored": 0,
+                    "total_wickets_taken": 0,
+                    "highest_score": 0,
+                    "best_bowling_figure": "0/39",
+                    "batting_average": 0.0,
+                    "teams_winning_batting_first": 0,
+                    "teams_winning_batting_second": 0,
+                    "batting_strike_rate": 0.0,
+                    "bowling_strike_rate": 0.0
+                },
+                "RCB": {
+                    "total_runs_scored": 0,
+                    "total_wickets_taken": 0,
+                    "highest_score": 0,
+                    "best_bowling_figure": "0/23",
+                    "batting_average": 0.0,
+                    "teams_winning_batting_first": 0,
+                    "teams_winning_batting_second": 0,
+                    "batting_strike_rate": 0.0,
+                    "bowling_strike_rate": 0.0
+                }
+            }
+        }
