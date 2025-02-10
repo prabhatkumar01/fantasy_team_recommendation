@@ -1,0 +1,114 @@
+{
+    "data": {
+        "captain": {
+            "name": "MS Dhoni",
+            "player_id": 28081,
+            "reason": "Proven performer against DC with high average and is good with keeping points and is also a great finisher."
+        },
+        "fantasy_team": [
+            {
+                "credit": 9,
+                "name": "MS Dhoni",
+                "player_id": 28081,
+                "reason": "High average against DC (44.73) and proven finisher, valuable on a batting-friendly pitch.",
+                "role": "Wicketkeeper",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "RD Gaikwad",
+                "player_id": 1060380,
+                "reason": "Excellent average (51.5) and strike rate (142.4) against DC, top-order stability.",
+                "role": "Batsman",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "AM Rahane",
+                "player_id": 277916,
+                "reason": "Experienced batter with a good average (32.56) against DC, potential for a high score.",
+                "role": "Batsman",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "R Ravindra",
+                "player_id": 959767,
+                "reason": "All-rounder with good batting strike rate (163.79) and bowling average (18.0) against DC.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "AR Patel",
+                "player_id": 554691,
+                "reason": "Valuable all-rounder, contributing with both bat (Avg 27.5, SR 122.22) and ball (Bowl SR 19.0) against CSK.",
+                "role": "Allrounder",
+                "team": "DC"
+            },
+            {
+                "credit": 7,
+                "name": "LB Williams",
+                "player_id": 379887,
+                "reason": "Consistent wicket-taker, economical bowler with good bowling strike rate (15.5 overall).",
+                "role": "Bowler",
+                "team": "DC"
+            },
+            {
+                "credit": 9,
+                "name": "DA Warner",
+                "player_id": 219889,
+                "reason": "Proven performer, high average (36.82) and strike rate (139.42) against CSK. Opening batter",
+                "role": "Batsman",
+                "team": "DC"
+            },
+            {
+                "credit": 7,
+                "name": "L Ngidi",
+                "player_id": 542023,
+                "reason": "Good record against CSK with 5 wickets and a bowling strike rate of 15.6.",
+                "role": "Bowler",
+                "team": "DC"
+            },
+            {
+                "credit": 7,
+                "name": "Kuldeep Yadav",
+                "player_id": 559235,
+                "reason": "Proven wicket taker with bowling strike rate of 12.4 and 6 wickets against CSK.",
+                "role": "Bowler",
+                "team": "DC"
+            },
+            {
+                "credit": 9,
+                "name": "S Dube",
+                "player_id": 714451,
+                "reason": "Hard-hitting batsman with a high strike rate (160.6) against DC.",
+                "role": "Allrounder",
+                "team": "CSK"
+            },
+            {
+                "credit": 6,
+                "name": "Mustafizur Rahman",
+                "player_id": 330902,
+                "reason": "Good record against DC with 10 wickets and a bowling strike rate of 15.",
+                "role": "Bowler",
+                "team": "CSK"
+            }
+        ],
+        "team_balance": {
+            "CSK": 6,
+            "DC": 5
+        },
+        "total_credit_used": 90,
+        "validation": {
+            "credit_usage_valid": true,
+            "roles_valid": true,
+            "team_balance_valid": true
+        },
+        "vice_captain": {
+            "name": "DA Warner",
+            "player_id": 219889,
+            "reason": "High average and strike rate against CSK, top-order batter."
+        }
+    }
+}

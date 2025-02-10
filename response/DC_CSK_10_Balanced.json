@@ -1,0 +1,114 @@
+{
+    "data": {
+        "captain": {
+            "name": "MS Dhoni",
+            "player_id": 28081,
+            "reason": "High batting average against DC and potential for stumping points."
+        },
+        "fantasy_team": [
+            {
+                "credit": 9,
+                "name": "MS Dhoni",
+                "player_id": 28081,
+                "reason": "High batting average (44.73) against DC and experience.",
+                "role": "Wicketkeeper",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "RD Gaikwad",
+                "player_id": 1060380,
+                "reason": "Good average (39.56) and strike rate (142.4) against DC.",
+                "role": "Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "AM Rahane",
+                "player_id": 277916,
+                "reason": "Experienced batter with high score of 105 against DC.",
+                "role": "Batter",
+                "team": "CSK"
+            },
+            {
+                "credit": 9,
+                "name": "AR Patel",
+                "player_id": 554691,
+                "reason": "Consistent all-rounder, good bowling strike rate (19.0) and average batting strike rate (122.22) against CSK.",
+                "role": "Allrounder",
+                "team": "DC"
+            },
+            {
+                "credit": 9,
+                "name": "DA Warner",
+                "player_id": 219889,
+                "reason": "Experienced opener with high score of 90 and average 36.82 against CSK.",
+                "role": "Batter",
+                "team": "DC"
+            },
+            {
+                "credit": 7,
+                "name": "T Stubbs",
+                "player_id": 595978,
+                "reason": "Good Strike rate of 164.29 against CSK.",
+                "role": "Batter",
+                "team": "DC"
+            },
+            {
+                "credit": 6,
+                "name": "DL Chahar",
+                "player_id": 447261,
+                "reason": "Has a bowling strike rate of 17.4.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 7,
+                "name": "Kuldeep Yadav",
+                "player_id": 559235,
+                "reason": "Good wicket-taker (69 wickets) and has taken 6 wickets against CSK.",
+                "role": "Bowler",
+                "team": "DC"
+            },
+            {
+                "credit": 6,
+                "name": "Mustafizur Rahman",
+                "player_id": 330902,
+                "reason": "Experienced bowler with 132 wickets in career, taken 10 wickets against DC.",
+                "role": "Bowler",
+                "team": "CSK"
+            },
+            {
+                "credit": 6,
+                "name": "Mukesh Kumar",
+                "player_id": 926851,
+                "reason": "Has taken 20 wickets and economy of 9.01, has taken 1 wicket against CSK.",
+                "role": "Bowler",
+                "team": "DC"
+            },
+            {
+                "credit": 8,
+                "name": "MM Ali",
+                "player_id": 8917,
+                "reason": "Batting allrounder with a batting average of 21.18 and 51 wickets.",
+                "role": "Allrounder",
+                "team": "CSK"
+            }
+        ],
+        "team_balance": {
+            "CSK": 6,
+            "DC": 5
+        },
+        "total_credit_used": 94,
+        "validation": {
+            "credit_usage_valid": true,
+            "roles_valid": true,
+            "team_balance_valid": true
+        },
+        "vice_captain": {
+            "name": "AR Patel",
+            "player_id": 554691,
+            "reason": "Consistent all-rounder performance with both bat and ball against CSK."
+        }
+    }
+}
