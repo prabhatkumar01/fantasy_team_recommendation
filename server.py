@@ -1,4 +1,6 @@
 from flask import Flask, request, jsonify
+from flask_limiter import Limiter
+from flask_limiter.util import get_remote_address
 import generatePrompt
 import scoreboards
 import getPlayingXI
@@ -7,6 +9,11 @@ import csv
 
 
 app = Flask(__name__)
+limiter = Limiter(
+    get_remote_address,
+    app=app,
+    default_limits=["10 per minute"]
+)
 
 # print(players_info)
 
@@ -125,6 +132,7 @@ point_system = {
 scoreboards = scoreboards.download_files_from_gcs("ipl_2024_innings")
 
 @app.route('/generate', methods=['POST'])
+@limiter.limit("10 per minute")
 def generate():
     data = request.get_json()
     team1 = data.get('team1')
