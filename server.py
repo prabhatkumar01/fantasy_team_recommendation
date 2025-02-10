@@ -3,6 +3,7 @@ import generatePrompt
 import scoreboards
 import getPlayingXI
 import utils
+import csv
 
 
 app = Flask(__name__)
@@ -254,6 +255,15 @@ def generate():
     res = generatePrompt.generate(prompt, True)
     
     return jsonify({"data": res})
+
+@app.route('/events', methods=['GET'])
+def get_events():
+    events = []
+    with open('events_data.csv', mode='r') as file:
+        csv_reader = csv.DictReader(file)
+        for row in csv_reader:
+            events.append(row)
+    return jsonify(events)
 
 if __name__ == '__main__':
     
