@@ -1,0 +1,7 @@
+Flask==2.1.0
+fuzzywuzzy==0.18.0
+google-cloud-storage==1.42.3
+google-cloud-aiplatform==1.7.0
+Werkzeug==2.0.3
+google-generativeai
+google-genai
