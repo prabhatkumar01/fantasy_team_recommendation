@@ -6,7 +6,7 @@ import generatePrompt
 import scoreboards
 import getPlayingXI
 import utils
-import validatorimport 
+import validator
 import csv
 
 
