@@ -18,7 +18,6 @@ def read_player_info_and_generate_prompt(csv_filepath):
                 'name': player_name,
                 'teamName': team_name
             }
-           
     prompts = {}
     for player_id, info in player_info.items():
         prompt = generatePrompt.generate_player_stats_prompt(player_id, info['name'], info['teamName'], all_teams)

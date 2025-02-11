@@ -1,3 +1,4 @@
+import json
 from flask import Flask, request, jsonify
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
@@ -5,6 +6,7 @@ import generatePrompt
 import scoreboards
 import getPlayingXI
 import utils
+import validator
 import csv
 
 
@@ -261,8 +263,15 @@ def generate():
     # Assuming generatePrompt.generate is a function that takes these parameters and returns a prompt
     prompt = generatePrompt.generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards,  ground_stat, risk_percentage, team_type, team_count, point_system)
     res = generatePrompt.generate(prompt, True)
-    
-    return jsonify({"data": res})
+    try:
+      json_res = {"data": res}
+      is_valid, message = validator.validate_fantasy_team(json_res, rules)
+      print(is_valid)
+      print(message)
+      return json_res
+    except json.JSONDecodeError as e:
+      print("invalid json response: {res}")
+      return {"Status": 500}
 
 @app.route('/events', methods=['GET'])
 def get_events():
