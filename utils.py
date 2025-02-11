@@ -213,3 +213,15 @@ def get_player_stats(player_id, opponent_team_name):
         return {}
     team_stats = overall_performance[opponent_team_name]
     return team_stats
+
+def get_player_stats_on_ground(playerName, playerId, ground):
+    file_path = f"player_ground_stats/{playerId}_{ground.replace(' ', '_').replace(',', '')}.json"
+    if not os.path.exists(file_path):
+        print(f"No data found for {playerName} at {ground}")
+        return {}
+    try:
+        with open(file_path, 'r') as file:
+            player_data = json.load(file)
+    except (json.JSONDecodeError, FileNotFoundError):
+        return {}
+    return player_data

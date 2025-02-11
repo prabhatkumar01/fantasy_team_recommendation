@@ -93,7 +93,7 @@ def generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, sc
             f"Wickets: {player['wickets']}, Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
             f"Bowling Strike Rate: {player['bolwing_strike_rate']}\n"
         )
-         # Add player stats for the opponent team
+        # Add player stats for the opponent team
         player_stats = utils.get_player_stats(player['id'], team2)
         if player_stats:
             prompt += f"Player Stats against Oponent {team2}: {json.dumps(player_stats, indent=4)}\n"
@@ -107,7 +107,7 @@ def generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, sc
             f"Wickets: {player['wickets']}, Economy: {player['economy']}, Five Wicket Hauls: {player['five_wicket']}, "
             f"Bowling Strike Rate: {player['bolwing_strike_rate']}\n"
         )
-         # Add player stats for the opponent team
+        # Add player stats for the opponent team
         player_stats = utils.get_player_stats(player['id'], team1)
         if player_stats:
             prompt += f"Player Stats against Oponent {team1}: {json.dumps(player_stats, indent=4)}\n"
