@@ -149,6 +149,7 @@ def generate():
     groundName = data.get('groundName')
     risk_percentage = data.get('risk_percentage', 10)
     team_type = data.get('team_type', 'balanced')
+    selected_players = data.get('selected_players', [])
     team_count = request.args.get('team_count', default=1, type=int)
     ground_stat = utils.find_ground_stats(groundName)
     players_info_1, players_info_2 = getPlayingXI.getPlayingXI(team1, team2)
@@ -268,7 +269,7 @@ def generate():
         return jsonify({"error": "Missing required parameters"}), 400
     
     # Assuming generatePrompt.generate is a function that takes these parameters and returns a prompt
-    prompt = generatePrompt.generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards,  ground_stat, risk_percentage, team_type, team_count, point_system)
+    prompt = generatePrompt.generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards,  ground_stat, risk_percentage, team_type, team_count, point_system, selected_players)
     def fetch_and_validate_response():
         res = generatePrompt.generate(prompt, True)
         try:
