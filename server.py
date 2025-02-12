@@ -20,9 +20,6 @@ limiter = Limiter(
     default_limits=["10 per minute"]
 )
 
-# print(players_info)
-
-
 rules = {
     "team_composition": {
       "total_players": 11,
@@ -300,6 +297,12 @@ def get_events():
         for row in csv_reader:
             events.append(row)
     return jsonify(events)
+
+@app.route('/get_players/team1/<team1_name>/team2/<team2_name>', methods=['GET'])
+def get_players_by_team(team1_name, team2_name):
+    players_info_1, players_info_2 = getPlayingXI.getPlayingXI(team1_name, team2_name)
+    return jsonify({"team1": players_info_1, "team2": players_info_2})
+
 
 if __name__ == '__main__':
     
