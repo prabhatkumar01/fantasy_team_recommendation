@@ -269,25 +269,32 @@ def generate():
     
     # Assuming generatePrompt.generate is a function that takes these parameters and returns a prompt
     prompt = generatePrompt.generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards,  ground_stat, risk_percentage, team_type, team_count, point_system)
-    res = generatePrompt.generate(prompt, True)
-    try:
-      json_res = {"data": res}
-      for player in json_res['data']['fantasy_team']:
-        player_id = player['player_id']
-        if player['team'] == team1:
-          image_url = get_image_url(player_id, players_info_1)
-          player['image_url'] = image_url
-        else:
-          image_url = get_image_url(player_id, players_info_2)
-          player['image_url'] = image_url
+    def fetch_and_validate_response():
+        res = generatePrompt.generate(prompt, True)
+        try:
+            json_res = {"data": res}
+            for player in json_res['data']['fantasy_team']:
+                player_id = player['player_id']
+                if player['team'] == team1:
+                    image_url = get_image_url(player_id, players_info_1)
+                    player['image_url'] = image_url
+                else:
+                    image_url = get_image_url(player_id, players_info_2)
+                    player['image_url'] = image_url
 
-      is_valid, message = validator.validate_fantasy_team(json_res, rules)
-      print(is_valid)
-      print(message)
-      return json_res
-    except json.JSONDecodeError as e:
-      print("invalid json response: {res}")
-      return {"Status": 500}
+            is_valid, message = validator.validate_fantasy_team(json_res, rules)
+            print(is_valid)
+            print(message)
+            return json_res, is_valid
+        except json.JSONDecodeError as e:
+            print(f"Invalid JSON response: {res}")
+            return {"Status": 500}, False
+    json_res, is_valid = fetch_and_validate_response()
+    if not is_valid:
+        json_res, is_valid = fetch_and_validate_response()
+    
+    return jsonify(json_res)
+
 
 @app.route('/events', methods=['GET'])
 def get_events():
