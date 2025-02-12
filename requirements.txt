@@ -6,3 +6,4 @@ google-cloud-aiplatform==1.7.0
 Werkzeug==2.0.3
 google-generativeai
 google-genai
+flask-cors
