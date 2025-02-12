@@ -83,7 +83,7 @@ def generate_autofill_prompt(team1, team2, players_info_1, players_info_2, rules
     return prompt
 
 
-def generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards, ground,  risk_percentage, team_type, team_count, point_system):
+def generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, scoreboards, ground,  risk_percentage, team_type, team_count, point_system, selected_players):
     prompt = f"Here are the details of the players in match for {team1}:\n\n"
     for player in players_info_1:
         prompt += (
@@ -136,6 +136,14 @@ def generate_team_prompt(team1, team2, players_info_1, players_info_2, rules, sc
         prompt += f"{stat.replace('_', ' ').capitalize()}: {value}\n"
     
     prompt += f"\nBased on the above data, please create {team_count} different fantasy teams of 11 players each, following the given rules strictly. "
+    if len(selected_players) > 0:
+        prompt += "\nUser has already selected the following players for the fantasy team:\n"
+        for player in selected_players:
+            prompt += (
+                f"Name: {player}"
+            )
+        prompt += f"\nFill the remaining {11 - len(selected_players)} players to complete the team while following these rules strictly:\n"
+
     prompt += f"Each team should be formed using the {team_type} strategy, Ground Stats,Ground pitch type and should have slightly different player combinations. "
     prompt += f"Give more weight to player stats against Oponent, Career stats and player ground stats while selecting {risk_percentage}% of players in the team.\n"
     prompt += "Your goal is to select a team which will collect maximum points in the match.\n"
