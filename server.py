@@ -1,4 +1,5 @@
 import json
+import string
 from flask import Flask, request, jsonify
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
@@ -135,6 +136,12 @@ point_system = {
 
 scoreboards = scoreboards.download_files_from_gcs("ipl_2024_innings")
 
+def get_image_url(player_id, players_info):
+    for player in players_info:
+        if str(player['id']) == str(player_id):
+          return player.get('image_url', 'Image URL not found')
+    return 'Image URL not found'
+
 @app.route('/generate', methods=['POST'])
 @limiter.limit("10 per minute")
 def generate():
@@ -268,6 +275,15 @@ def generate():
     res = generatePrompt.generate(prompt, True)
     try:
       json_res = {"data": res}
+      for player in json_res['data']['fantasy_team']:
+        player_id = player['player_id']
+        if player['team'] == team1:
+          image_url = get_image_url(player_id, players_info_1)
+          player['image_url'] = image_url
+        else:
+          image_url = get_image_url(player_id, players_info_2)
+          player['image_url'] = image_url
+
       is_valid, message = validator.validate_fantasy_team(json_res, rules)
       print(is_valid)
       print(message)
