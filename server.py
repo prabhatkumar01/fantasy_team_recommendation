@@ -300,7 +300,7 @@ def generate():
 @app.route('/events', methods=['GET'])
 def get_events():
     events = []
-    with open('events_data.csv', mode='r') as file:
+    with open('data/events_data.csv', mode='r') as file:
         csv_reader = csv.DictReader(file)
         for row in csv_reader:
             events.append(row)

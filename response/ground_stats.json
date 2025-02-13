@@ -150,7 +150,7 @@
             "batting_first_win_percentage": 45.9,
             "batting_second_win_percentage": 54.1,
             "strike_rate": 136.7,
-            "pitch_type": "Batting Friendly" //Could be Balanced too
+            "pitch_type": "Batting Friendly"
         }
     },
     {

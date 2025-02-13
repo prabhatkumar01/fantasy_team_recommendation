@@ -29,7 +29,7 @@ async function fetchPlayersStatsFromCSV() {
     const playersIds = [];
 
     // Read the CSV file containing player information
-    fs.createReadStream('player.csv')
+    fs.createReadStream('data/player.csv')
         .pipe(csv())
         .on('data', async (row) => {
             const playerId = row.id;

@@ -36,8 +36,8 @@ def get_player_stats(player_name, ground_name):
     }
 
 def generate_player_ground_stats():
-    grounds = read_csv('ground.csv')
-    players = read_csv('player.csv')
+    grounds = read_csv('data/ground.csv')
+    players = read_csv('data/player.csv')
     
     player_ground_stats = []
     

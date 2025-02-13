@@ -443,7 +443,7 @@ async function getData() {
     const csvData = parse(playersDetails);
 
     // Write CSV data to a file
-    fs.writeFileSync('player.csv', csvData);
+    fs.writeFileSync('data/player.csv', csvData);
     console.log('Data has been written to player.csv');
 }
 

@@ -26,7 +26,7 @@ def read_player_info_and_generate_prompt(csv_filepath):
     return prompts
 
 # Example usage
-csv_filepath = 'player.csv'
+csv_filepath = 'data/player.csv'
 prompts = read_player_info_and_generate_prompt(csv_filepath)
 for player_id, prompt in prompts.items():
     resp = generatePrompt.generate(prompt, True)
