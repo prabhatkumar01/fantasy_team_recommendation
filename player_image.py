@@ -53,7 +53,7 @@ def read_player_csv_and_fetch_images(file_path):
     
     # Save the updated data back to the CSV file
     fieldnames = players[0].keys()
-    with open('player.csv', mode='w', newline='') as file:
+    with open('data/player.csv', mode='w', newline='') as file:
         csv_writer = csv.DictWriter(file, fieldnames=fieldnames)
         csv_writer.writeheader()
         csv_writer.writerows(players)
